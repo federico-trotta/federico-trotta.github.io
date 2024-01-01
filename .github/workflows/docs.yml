@@ -15,7 +15,7 @@ jobs:
     - name: Install Python
       uses: actions/setup-python@v1
       with:
-        python-version: 3.9
+        python-version: "3.9"
 
     - name: Install requirements
       run: |
@@ -30,4 +30,4 @@ jobs:
       with:
         publish_branch: gh-pages
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: docs/build/html/
+        publish_dir: docs/_build/html/
