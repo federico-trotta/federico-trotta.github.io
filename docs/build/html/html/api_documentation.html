@@ -1,0 +1,770 @@
+<!doctype html>
+<html class="no-js" lang="en" data-content_root="./">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="index" title="Index" href="genindex.html" /><link rel="search" title="Search" href="search.html" /><link rel="prev" title="Internal documentation" href="internal_documentation.html" />
+
+    <!-- Generated with Sphinx 7.2.6 and Furo 2023.09.10 -->
+        <title>API documentation - My portfolio</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=a746c00c" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo.css?v=135e06be" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo-extensions.css?v=36a5483c" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="index.html"><div class="brand">My portfolio</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="index.html">
+  
+  
+  <span class="sidebar-brand-text">My portfolio</span>
+  
+</a><form class="sidebar-search-container" method="get" action="search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <p class="caption" role="heading"><span class="caption-text">MY WORKS</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="articles.html">Articles</a></li>
+<li class="toctree-l1"><a class="reference internal" href="prod.html">Products documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="internal_documentation.html">Internal documentation</a></li>
+<li class="toctree-l1 current current-page"><a class="current reference internal" href="#">API documentation</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <section id="api-documentation">
+<h1>API documentation<a class="headerlink" href="#api-documentation" title="Link to this heading">#</a></h1>
+<p>This section shows how I document APIs.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>I documented APIs for internal use only, so the following section show either APIs I developed in Python for personal projects or part of some APIs I integrated for my clients (this shows only partial code. Furtermore, refactored and created differently from the actual API).</p>
+</div>
+<hr class="docutils" />
+<section id="zendesk-api-oauth-tokens-management-documentation">
+<h2>Zendesk API: OAuth tokens management documentation<a class="headerlink" href="#zendesk-api-oauth-tokens-management-documentation" title="Link to this heading">#</a></h2>
+<p>This section describes how I created use cases in Python for the Zendesk API and how I documented them.<br />
+<br />
+I created a Python program for a customer that uses the Zendesk API to manage access tokens. They needed a program that could manage access tokens on behalf of their customers to help the support team in their daily tasks, making customers do some operations for them.<br />
+<br />
+The complete program and documentation can’t be shown, so, in this section, I recreated some of the functions, with different code, to show how I document APIs.</p>
+<section id="prerequisites">
+<h3>Prerequisites<a class="headerlink" href="#prerequisites" title="Link to this heading">#</a></h3>
+<section id="get-a-zendesk-subdomain">
+<h4>Get a Zendesk subdomain<a class="headerlink" href="#get-a-zendesk-subdomain" title="Link to this heading">#</a></h4>
+<p>To use the code in this section, you first need to have a <a class="reference external" href="https://www.zendesk.com/">Zendesk subdomain</a> registered.<br />
+<br />
+<a class="reference external" href="https://developer.zendesk.com/api-reference/">Here’s</a> the API reference with its documentation for further basic knowledge.</p>
+</section>
+<section id="create-an-api-token">
+<h4>Create an API token<a class="headerlink" href="#create-an-api-token" title="Link to this heading">#</a></h4>
+<p>After gaining a Zendesk domain with an admin account, you can create an API token as follows:</p>
+<p><strong>Step 1:</strong> Log in to your Zendesk account and go to the <code class="docutils literal notranslate"><span class="pre">Admin</span> <span class="pre">Center</span></code></p>
+<figure class="align-center" id="id2">
+<img alt="The Zendesk Admin Center documentation by Federico Trotta." src="_images/4securitas_admin_center.png" />
+<figcaption>
+<p><span class="caption-text"><em>Going to the admin center.</em></span><a class="headerlink" href="#id2" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<p><strong>Step 2:</strong> Click on <code class="docutils literal notranslate"><span class="pre">Apps</span> <span class="pre">and</span> <span class="pre">integrations</span></code> and then on <code class="docutils literal notranslate"><span class="pre">Zendesk</span> <span class="pre">API</span></code></p>
+<figure class="align-center" id="id3">
+<img alt="The Zendesk API documentation by Federico Trotta." src="_images/4securitas_zendesk_api.png" />
+<figcaption>
+<p><span class="caption-text"><em>Going to the Zendesk API.</em></span><a class="headerlink" href="#id3" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<p><strong>Step 3:</strong> Click on <code class="docutils literal notranslate"><span class="pre">Settings</span></code>. Then, enable the Token access. Finally, click on <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">API</span> <span class="pre">token</span></code></p>
+<figure class="align-center" id="id4">
+<img alt="The Zendesk API documentation by Federico Trotta." src="_images/4securitas_api_token.png" />
+<figcaption>
+<p><span class="caption-text"><em>Adding a new API token.</em></span><a class="headerlink" href="#id4" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<p>Copy and paste the API token somewhere safe: it won’t be shown again.<br />
+<br />
+Then, save and you’re done.</p>
+</section>
+<section id="python-prerequisites">
+<h4>Python prerequisites<a class="headerlink" href="#python-prerequisites" title="Link to this heading">#</a></h4>
+<p>To run the program you need:</p>
+<ul class="simple">
+<li><p>Python 3 or later.</p></li>
+<li><p>The library <code class="docutils literal notranslate"><span class="pre">requests</span></code>.</p></li>
+</ul>
+<p>Since the library requests is not in the Python standard library, you need to install it via the command:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="n">pip</span> <span class="n">install</span> <span class="n">requests</span>
+</pre></div>
+</div>
+</section>
+</section>
+<section id="use-cases-implementation">
+<h3>Use cases implementation<a class="headerlink" href="#use-cases-implementation" title="Link to this heading">#</a></h3>
+<p>This section shows documentet Python code as use cases for the Zendesk API.</p>
+<section id="admin-authenticator">
+<h4>Admin authenticator<a class="headerlink" href="#admin-authenticator" title="Link to this heading">#</a></h4>
+<p>If you’re working with colleagues, each colleague can be an admin, create an admin API token, and use the program.<br />
+<br />
+The admin authenticator program is called <code class="docutils literal notranslate"><span class="pre">initial.py</span></code>. It asks you for your:</p>
+<ul class="simple">
+<li><p>Your Zendesk login email.</p></li>
+<li><p>API token.</p></li>
+</ul>
+<p>After authentication, it creates a file called <code class="docutils literal notranslate"><span class="pre">settings.py</span></code> that stores your:</p>
+<ul class="simple">
+<li><p>Zendesk login email.</p></li>
+<li><p>API token.</p></li>
+<li><p>Client ID.</p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>You’ll provide your email and API token via CLI. The client ID is retrieved by the software automatically.</p>
+</div>
+<p>Here’s the Python code:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos"> 1</span><span class="kn">import</span> <span class="nn">requests</span>
+<span class="linenos"> 2</span>
+<span class="linenos"> 3</span><span class="c1"># Define the Zendesk subdomain</span>
+<span class="linenos"> 4</span><span class="n">ZENDESK_SUBDOMAIN</span> <span class="o">=</span> <span class="s2">&quot;&quot;</span> <span class="c1"># Write your Zendesk subdomain</span>
+<span class="linenos"> 5</span>
+<span class="linenos"> 6</span><span class="c1"># Insert user email</span>
+<span class="linenos"> 7</span><span class="n">email</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">Please, insert your Zendesk login email:</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="linenos"> 8</span><span class="c1"># Insert user API token</span>
+<span class="linenos"> 9</span><span class="n">token</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">Please, insert your Zendesk API token:</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="linenos">10</span> 
+<span class="linenos">11</span><span class="k">def</span> <span class="nf">generate_settings</span><span class="p">(</span><span class="n">email</span><span class="p">,</span> <span class="n">token</span><span class="p">)</span><span class="o">-&gt;</span><span class="kc">None</span><span class="p">:</span>
+<span class="linenos">12</span><span class="w">    </span><span class="sd">&quot;&quot;&quot; Generates the settings.py file needed to use the main program&quot;&quot;&quot;</span>
+<span class="linenos">13</span>    <span class="c1"># API request</span>
+<span class="linenos">14</span>    <span class="n">url</span> <span class="o">=</span> <span class="sa">f</span><span class="s1">&#39;https://</span><span class="si">{</span><span class="n">ZENDESK_SUBDOMAIN</span><span class="si">}</span><span class="s1">.zendesk.com/api/v2/oauth/clients&#39;</span>
+<span class="linenos">15</span>    <span class="n">auth</span> <span class="o">=</span> <span class="p">(</span><span class="n">email</span> <span class="o">+</span> <span class="s1">&#39;/token&#39;</span><span class="p">,</span> <span class="n">token</span><span class="p">)</span>
+<span class="linenos">16</span>    <span class="n">headers</span> <span class="o">=</span> <span class="p">{</span>
+<span class="linenos">17</span>    	<span class="s2">&quot;Content-Type&quot;</span><span class="p">:</span> <span class="s2">&quot;application/json&quot;</span><span class="p">,</span>
+<span class="linenos">18</span>    <span class="p">}</span>
+<span class="linenos">19</span>
+<span class="linenos">20</span>    <span class="k">try</span><span class="p">:</span>
+<span class="linenos">21</span>        <span class="c1"># Get response</span>
+<span class="linenos">22</span>        <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">auth</span><span class="o">=</span><span class="n">auth</span><span class="p">,</span> <span class="n">headers</span><span class="o">=</span><span class="n">headers</span><span class="p">)</span>
+<span class="linenos">23</span>        <span class="c1"># Get the clients in the JSON response</span>
+<span class="linenos">24</span>        <span class="n">number_of_ids</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">json</span><span class="p">()[</span><span class="s2">&quot;clients&quot;</span><span class="p">])</span>
+<span class="linenos">25</span>    
+<span class="linenos">26</span>        <span class="c1"># Iterate to get the client ID</span>
+<span class="linenos">27</span>        <span class="k">for</span> <span class="nb">id</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">number_of_ids</span><span class="p">):</span>
+<span class="linenos">28</span>            <span class="nb">print</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">json</span><span class="p">()[</span><span class="s2">&quot;clients&quot;</span><span class="p">][</span><span class="nb">id</span><span class="p">][</span><span class="s2">&quot;id&quot;</span><span class="p">])</span>
+<span class="linenos">29</span>            <span class="n">client_id</span> <span class="o">=</span> <span class="n">response</span><span class="o">.</span><span class="n">json</span><span class="p">()[</span><span class="s2">&quot;clients&quot;</span><span class="p">][</span><span class="nb">id</span><span class="p">][</span><span class="s2">&quot;id&quot;</span><span class="p">]</span>
+<span class="linenos">30</span>    <span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+<span class="linenos">31</span>        <span class="nb">print</span><span class="p">(</span><span class="n">e</span><span class="p">)</span>
+<span class="linenos">32</span>
+<span class="linenos">33</span>    <span class="c1"># Write credentials to settings.py file</span>
+<span class="linenos">34</span>    <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s2">&quot;settings.py&quot;</span><span class="p">,</span> <span class="s2">&quot;w&quot;</span><span class="p">)</span> <span class="k">as</span> <span class="n">settings_file</span><span class="p">:</span>
+<span class="linenos">35</span>        <span class="n">settings_file</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;EMAIL = &quot;</span><span class="si">{</span><span class="n">email</span><span class="si">}</span><span class="s1">&quot;</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">)</span>
+<span class="linenos">36</span>        <span class="n">settings_file</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;CLIENT_ID = &quot;</span><span class="si">{</span><span class="n">client_id</span><span class="si">}</span><span class="s1">&quot;</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">)</span>
+<span class="linenos">37</span>        <span class="n">settings_file</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;API_TOKEN = &quot;</span><span class="si">{</span><span class="n">token</span><span class="si">}</span><span class="s1">&quot;</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">)</span>
+<span class="linenos">38</span>        <span class="n">settings_file</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+<span class="linenos">39</span>    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">Succesfully created your settings file!&quot;</span><span class="p">)</span>
+<span class="linenos">40</span>
+<span class="linenos">41</span><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">&quot;__main__&quot;</span><span class="p">:</span>
+<span class="linenos">42</span>    <span class="n">generate_settings</span><span class="p">(</span><span class="n">email</span><span class="p">,</span> <span class="n">token</span><span class="p">)</span>
+</pre></div>
+</div>
+</section>
+<section id="how-to-create-an-oauth-token">
+<h4>How to create an OAuth token<a class="headerlink" href="#how-to-create-an-oauth-token" title="Link to this heading">#</a></h4>
+<p>This program retrieves the information of an admin stored in the <code class="docutils literal notranslate"><span class="pre">settings.py</span></code> file and:</p>
+<ul class="simple">
+<li><p>Gets authentication to the Zendesk API.</p></li>
+<li><p>Creates an OAuth token.</p></li>
+</ul>
+<p>Your customers can use the OAuth token in other Python files you have written to authenticate them to the Zendesk API and make some actions on your behalf.<br />
+<br />
+For example, you may want to write a Python file that retrieves the logs on a customer machine and loads them on a Zendesk ticket; let’s call it <code class="docutils literal notranslate"><span class="pre">operator.py</span></code>. To load them on a Zendesk ticket you need to authenticate your customer and you can safely do so via a OAuth token.<br />
+<br />
+Here’s the code:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos"> 1</span><span class="kn">import</span> <span class="nn">base64</span>
+<span class="linenos"> 2</span><span class="kn">import</span> <span class="nn">json</span>
+<span class="linenos"> 3</span><span class="kn">import</span> <span class="nn">requests</span>
+<span class="linenos"> 4</span><span class="kn">import</span> <span class="nn">settings</span>
+<span class="linenos"> 5</span>
+<span class="linenos"> 6</span>
+<span class="linenos"> 7</span><span class="c1"># Define the Zendesk subdomain</span>
+<span class="linenos"> 8</span><span class="n">ZENDESK_SUBDOMAIN</span> <span class="o">=</span> <span class="s2">&quot;&quot;</span> <span class="c1"># Write your Zendesk domain</span>
+<span class="linenos"> 9</span>
+<span class="linenos">10</span><span class="c1"># Retrieve info from the settings file</span>
+<span class="linenos">11</span><span class="n">email</span> <span class="o">=</span> <span class="n">settings</span><span class="o">.</span><span class="n">EMAIL</span>
+<span class="linenos">12</span><span class="n">token</span> <span class="o">=</span> <span class="n">settings</span><span class="o">.</span><span class="n">API_TOKEN</span>
+<span class="linenos">13</span><span class="n">client_id</span> <span class="o">=</span> <span class="n">settings</span><span class="o">.</span><span class="n">CLIENT_ID</span>
+<span class="linenos">14</span><span class="n">auth</span> <span class="o">=</span> <span class="p">(</span><span class="n">email</span> <span class="o">+</span> <span class="s1">&#39;/token&#39;</span><span class="p">,</span> <span class="n">token</span><span class="p">)</span>
+<span class="linenos">15</span>
+<span class="linenos">16</span><span class="k">def</span> <span class="nf">generate_token</span><span class="p">(</span><span class="n">client_id</span><span class="p">:</span><span class="nb">str</span><span class="p">,</span> <span class="n">auth</span><span class="p">:</span><span class="nb">str</span><span class="p">)</span><span class="o">-&gt;</span><span class="n">base64</span><span class="p">:</span>
+<span class="linenos">17</span><span class="w">    </span><span class="sd">&quot;&quot;&quot;Creates an OAuth Token for the Zendesk API&quot;&quot;&quot;</span>
+<span class="linenos">18</span>    
+<span class="linenos">19</span>    <span class="c1"># API request to generate a new token</span>
+<span class="linenos">20</span>    <span class="n">url</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;https://</span><span class="si">{</span><span class="n">ZENDESK_SUBDOMAIN</span><span class="si">}</span><span class="s2">.zendesk.com/api/v2/oauth/tokens.json&quot;</span>
+<span class="linenos">21</span>
+<span class="linenos">22</span>    <span class="n">headers</span> <span class="o">=</span> <span class="p">{</span>
+<span class="linenos">23</span>        <span class="s2">&quot;Content-Type&quot;</span><span class="p">:</span> <span class="s2">&quot;application/json&quot;</span>
+<span class="linenos">24</span>    <span class="p">}</span>
+<span class="linenos">25</span>
+<span class="linenos">26</span>    <span class="n">data</span> <span class="o">=</span> <span class="p">{</span>
+<span class="linenos">27</span>        <span class="s2">&quot;token&quot;</span><span class="p">:</span> <span class="p">{</span>
+<span class="linenos">28</span>            <span class="s2">&quot;client_id&quot;</span><span class="p">:</span> <span class="n">client_id</span><span class="p">,</span>
+<span class="linenos">29</span>            <span class="s2">&quot;scopes&quot;</span><span class="p">:</span> <span class="p">[</span><span class="s2">&quot;read&quot;</span><span class="p">,</span> <span class="s2">&quot;write&quot;</span><span class="p">]</span>
+<span class="linenos">30</span>        <span class="p">}</span>
+<span class="linenos">31</span>    <span class="p">}</span>
+<span class="linenos">32</span>
+<span class="linenos">33</span>    <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">post</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">headers</span><span class="o">=</span><span class="n">headers</span><span class="p">,</span> <span class="n">json</span><span class="o">=</span><span class="n">data</span><span class="p">,</span> <span class="n">auth</span><span class="o">=</span><span class="n">auth</span><span class="p">)</span>
+<span class="linenos">34</span>    
+<span class="linenos">35</span>    <span class="c1"># Get token ID</span>
+<span class="linenos">36</span>    <span class="n">oauth_id</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">json</span><span class="p">()[</span><span class="s2">&quot;token&quot;</span><span class="p">][</span><span class="s2">&quot;id&quot;</span><span class="p">])</span>
+<span class="linenos">37</span>    <span class="c1"># Get full token</span>
+<span class="linenos">38</span>    <span class="n">oauth_token</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">json</span><span class="p">()[</span><span class="s2">&quot;token&quot;</span><span class="p">][</span><span class="s2">&quot;full_token&quot;</span><span class="p">])</span>
+<span class="linenos">39</span>
+<span class="linenos">40</span>    <span class="c1"># Insert ticket number</span>
+<span class="linenos">41</span>    <span class="n">zendesk_ticket_number</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Insert the Zendesk Ticket number: &quot;</span><span class="p">)</span>
+<span class="linenos">42</span>
+<span class="linenos">43</span>    <span class="c1"># Mix ticket number, token id, and full token</span>
+<span class="linenos">44</span>    <span class="n">clear_text_msg</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">zendesk_ticket_number</span><span class="si">}</span><span class="s2">:</span><span class="si">{</span><span class="n">oauth_id</span><span class="si">}</span><span class="s2">:</span><span class="si">{</span><span class="n">oauth_token</span><span class="si">}</span><span class="s2">&quot;</span>
+<span class="linenos">45</span>    <span class="c1"># Encode the mixed values</span>
+<span class="linenos">46</span>    <span class="n">encoded_msg</span> <span class="o">=</span> <span class="n">base64</span><span class="o">.</span><span class="n">b64encode</span><span class="p">(</span><span class="n">clear_text_msg</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s1">&#39;utf-8&#39;</span><span class="p">))</span><span class="o">.</span><span class="n">decode</span><span class="p">(</span><span class="s1">&#39;utf-8&#39;</span><span class="p">)</span>
+<span class="linenos">47</span>
+<span class="linenos">48</span>    <span class="c1"># Return the mixed values</span>
+<span class="linenos">49</span>    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">Here&#39;s your new token!</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="linenos">50</span>    <span class="k">return</span> <span class="n">encoded_msg</span>
+<span class="linenos">51</span>    
+<span class="linenos">52</span><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">&quot;__main__&quot;</span><span class="p">:</span>
+<span class="linenos">53</span>    <span class="n">generate_token</span><span class="p">(</span><span class="n">client_id</span><span class="p">,</span> <span class="n">auth</span><span class="p">)</span>
+</pre></div>
+</div>
+</section>
+<section id="how-to-revoke-active-oauth-tokens">
+<h4>How to revoke active OAuth tokens<a class="headerlink" href="#how-to-revoke-active-oauth-tokens" title="Link to this heading">#</a></h4>
+<p>When you create OAuth tokens, they will remain stored in the web server, taking space.<br />
+<br />
+It is a good practice to revoke all the active tokens, from time to time. <br />
+<br />
+The following program revokes all the active tokens:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos"> 1</span><span class="kn">import</span> <span class="nn">json</span>
+<span class="linenos"> 2</span><span class="kn">import</span> <span class="nn">requests</span>
+<span class="linenos"> 3</span><span class="kn">import</span> <span class="nn">settings</span>
+<span class="linenos"> 4</span>
+<span class="linenos"> 5</span>
+<span class="linenos"> 6</span><span class="c1"># Define the Zendesk subdomain</span>
+<span class="linenos"> 7</span><span class="n">ZENDESK_SUBDOMAIN</span> <span class="o">=</span> <span class="s2">&quot;&quot;</span> <span class="c1"># Write your Zendesk domain</span>
+<span class="linenos"> 8</span>
+<span class="linenos"> 9</span><span class="c1"># Retrieve info from the settings file</span>
+<span class="linenos">10</span><span class="n">email</span> <span class="o">=</span> <span class="n">settings</span><span class="o">.</span><span class="n">EMAIL</span>
+<span class="linenos">11</span><span class="n">token</span> <span class="o">=</span> <span class="n">settings</span><span class="o">.</span><span class="n">API_TOKEN</span>
+<span class="linenos">12</span><span class="n">client_id</span> <span class="o">=</span> <span class="n">settings</span><span class="o">.</span><span class="n">CLIENT_ID</span>
+<span class="linenos">13</span><span class="n">auth</span> <span class="o">=</span> <span class="p">(</span><span class="n">email</span> <span class="o">+</span> <span class="s1">&#39;/token&#39;</span><span class="p">,</span> <span class="n">token</span><span class="p">)</span>
+<span class="linenos">14</span>
+<span class="linenos">15</span><span class="k">def</span> <span class="nf">revoke_all_tokens</span><span class="p">(</span><span class="n">auth</span><span class="p">:</span><span class="nb">str</span><span class="p">)</span><span class="o">-&gt;</span><span class="kc">None</span><span class="p">:</span>
+<span class="linenos">16</span><span class="w">    </span><span class="sd">&quot;&quot;&quot;Revokes all the OAuth Tokens generated for the Zendesk API&quot;&quot;&quot;</span>
+<span class="linenos">17</span>
+<span class="linenos">18</span>    <span class="c1"># API request to revoke all the tokens</span>
+<span class="linenos">19</span>    <span class="n">url</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;https://</span><span class="si">{</span><span class="n">ZENDESK_SUBDOMAIN</span><span class="si">}</span><span class="s2">.zendesk.com/api/v2/oauth/tokens.json&quot;</span>
+<span class="linenos">20</span>
+<span class="linenos">21</span>    <span class="n">headers</span> <span class="o">=</span> <span class="p">{</span>
+<span class="linenos">22</span>        <span class="s2">&quot;Content-Type&quot;</span><span class="p">:</span> <span class="s2">&quot;application/json&quot;</span>
+<span class="linenos">23</span>    <span class="p">}</span>
+<span class="linenos">24</span>
+<span class="linenos">25</span>    <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">headers</span><span class="o">=</span><span class="n">headers</span><span class="p">,</span> <span class="n">auth</span><span class="o">=</span><span class="n">auth</span><span class="p">)</span>
+<span class="linenos">26</span>
+<span class="linenos">27</span>    <span class="c1"># Calculate the number of existing tokens</span>
+<span class="linenos">28</span>    <span class="n">number_of_tokens</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">json</span><span class="p">()[</span><span class="s2">&quot;tokens&quot;</span><span class="p">])</span>
+<span class="linenos">29</span>
+<span class="linenos">30</span>    <span class="c1"># Store response to a variable</span>
+<span class="linenos">31</span>    <span class="n">response_json</span> <span class="o">=</span> <span class="n">response</span><span class="o">.</span><span class="n">json</span><span class="p">()</span>
+<span class="linenos">32</span>
+<span class="linenos">33</span>    <span class="c1"># Iterate to revoke all the existing tokens</span>
+<span class="linenos">34</span>    <span class="k">for</span> <span class="n">arrayn</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">number_of_tokens</span><span class="p">):</span>
+<span class="linenos">35</span>        <span class="n">token_id</span> <span class="o">=</span> <span class="n">response_json</span><span class="p">[</span><span class="s2">&quot;tokens&quot;</span><span class="p">][</span><span class="n">arrayn</span><span class="p">][</span><span class="s2">&quot;id&quot;</span><span class="p">]</span> <span class="c1"># Get token id</span>
+<span class="linenos">36</span>        <span class="n">url</span> <span class="o">=</span> <span class="sa">f</span><span class="s1">&#39;https://</span><span class="si">{</span><span class="n">ZENDESK_SUBDOMAIN</span><span class="si">}</span><span class="s1">.zendesk.com/api/v2/oauth/tokens/</span><span class="si">{</span><span class="n">token_id</span><span class="si">}</span><span class="s1">.json&#39;</span>
+<span class="linenos">37</span>        <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">delete</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">auth</span><span class="o">=</span><span class="n">auth</span><span class="p">)</span> <span class="c1"># Revoke tokens</span>
+<span class="linenos">38</span>
+<span class="linenos">39</span>        <span class="c1"># Verify response</span>
+<span class="linenos">40</span>        <span class="k">try</span><span class="p">:</span> 
+<span class="linenos">41</span>            <span class="k">if</span> <span class="n">response</span><span class="o">.</span><span class="n">status_code</span> <span class="o">==</span> <span class="mi">204</span><span class="p">:</span>
+<span class="linenos">42</span>                <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">All the tokens been revoked!</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="linenos">43</span>            <span class="k">else</span><span class="p">:</span>
+<span class="linenos">44</span>                <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">There was a problem while revoking the tokens!</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="linenos">45</span>        <span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+<span class="linenos">46</span>            <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">An exception occurred: &quot;</span><span class="p">,</span> <span class="n">e</span><span class="p">)</span>
+<span class="linenos">47</span>            
+<span class="linenos">48</span><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">&quot;__main__&quot;</span><span class="p">:</span>
+<span class="linenos">49</span>    <span class="n">revoke_all_tokens</span><span class="p">(</span><span class="n">auth</span><span class="p">)</span>
+</pre></div>
+</div>
+</section>
+</section>
+</section>
+<hr class="docutils" />
+<section id="beam-api-training-a-machine-learning-model-on-a-serverless-gpu">
+<h2>Beam API: training a Machine Learning model on a serverless GPU<a class="headerlink" href="#beam-api-training-a-machine-learning-model-on-a-serverless-gpu" title="Link to this heading">#</a></h2>
+<p><a class="reference external" href="https://www.beam.cloud/">Beam</a> is a service that provides Data Scientists and Developers the possibility to run code on a serverless GPU, utilizing their REST API.<br />
+<br />
+I had the possibility to collaborate with them to <a class="reference external" href="https://docs.beam.cloud/getting-started/introduction">their documentation</a>, creating a use case that describes:</p>
+<ul class="simple">
+<li><p>What are serverless GPUs and why they’re revolutionizing the world of data in terms of development.</p></li>
+<li><p>How to log in and install the beam CLI on a Linux machine (or, via WSL in Windows).</p></li>
+<li><p>A use case on how to train a Machine Learning model on the Beam serverless GPU, using its API.</p></li>
+</ul>
+<p>Read the complete use case <a class="reference external" href="https://levelup.gitconnected.com/accelerating-ai-how-serverless-gpus-are-revolutionizing-model-training-af14dd978d64">here</a>.</p>
+</section>
+<hr class="docutils" />
+<section id="coingecko-api-getting-crypto-values">
+<h2>CoinGecko API: getting crypto values<a class="headerlink" href="#coingecko-api-getting-crypto-values" title="Link to this heading">#</a></h2>
+<p>This section describes a use case for the CoinGecko API.<br />
+<br />
+This use case has been developed by me in Python and the full code is on my <a class="reference external" href="https://github.com/federico-trotta/crypto_prices_API">GitHub</a>.</p>
+<section id="id1">
+<h3>Prerequisites<a class="headerlink" href="#id1" title="Link to this heading">#</a></h3>
+<p>To use the CoinGecko API you first need to create an account on <a class="reference external" href="https://www.coingecko.com/">their website</a>.<br />
+<br />
+Then, you need to create an <a class="reference external" href="https://apiguide.coingecko.com/getting-started/getting-started">API token</a>. The <a class="reference external" href="https://www.coingecko.com/en/api/pricing">free plan</a> currently allows you to make 10k API calls per month.</p>
+</section>
+<section id="requirements">
+<h3>Requirements<a class="headerlink" href="#requirements" title="Link to this heading">#</a></h3>
+<p>The program uses the <code class="docutils literal notranslate"><span class="pre">match</span></code> statement that, and, at the time of writing this documentation (November 2023), this requires <code class="docutils literal notranslate"><span class="pre">Python</span> <span class="pre">3.10</span></code> (or newer versions).<br />
+<br />
+As the program calls an API, you also need the <code class="docutils literal notranslate"><span class="pre">requests</span></code> library. You can install it via:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="n">pip</span> <span class="n">install</span> <span class="n">requests</span>
+</pre></div>
+</div>
+</section>
+<section id="getting-started">
+<h3>Getting started<a class="headerlink" href="#getting-started" title="Link to this heading">#</a></h3>
+<p>When you use this software you need to launch the <code class="docutils literal notranslate"><span class="pre">initial.py</span></code> file via:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="n">python3</span> <span class="n">initial</span><span class="o">.</span><span class="n">py</span>
+</pre></div>
+</div>
+<p>This will create a file, called <code class="docutils literal notranslate"><span class="pre">settings.py</span></code>, which stores your email and your API token: this way, every time you use this software, you won’t need to insert them.<br />
+<br />
+After that, you can launch the main file via:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="n">python3</span> <span class="n">main</span><span class="o">.</span><span class="n">py</span>
+</pre></div>
+</div>
+<p>Here’s how the <code class="docutils literal notranslate"><span class="pre">initial.py</span></code> file works (code reference <a class="reference external" href="https://github.com/federico-trotta/crypto_prices_API/blob/main/initial.py">here</a>):</p>
+<ul class="simple">
+<li><p>The user inserts the email and the API KEY via CLI.</p></li>
+<li><p>The program checks if the <code class="docutils literal notranslate"><span class="pre">settings.py</span></code> file exists in the settings folder, then:</p>
+<ul>
+<li><p>If exists, it warns the user that the file already exists.</p></li>
+<li><p>If it doesn’t exist, it creates it and stores the email and the API KEI inserted by the user.</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="structure-of-the-main-file">
+<h3>Structure of the main file<a class="headerlink" href="#structure-of-the-main-file" title="Link to this heading">#</a></h3>
+<p>After the first usage, always invoke the main file via:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="n">python3</span> <span class="n">main</span><span class="o">.</span><span class="n">py</span>
+</pre></div>
+</div>
+<p>Here’s what it does:</p>
+<ol class="arabic simple">
+<li><p>It imports the email and the API token from the <code class="docutils literal notranslate"><span class="pre">settings.py</span></code> file.</p></li>
+<li><p>It prints a welcome message reporting the version of the software.</p></li>
+<li><p>It tries to authenticate the user.</p></li>
+<li><p>With a <code class="docutils literal notranslate"><span class="pre">while</span></code> loop, it has a menù that gives the user to choose between three options:</p>
+<ul class="simple">
+<li><p><strong>Option 1</strong>: the user can visualize the price of one crypto in a currency of their choice. Also, the user can choose to store the value of the crypto in a CVS file with the current date.</p></li>
+<li><p><strong>Option 2</strong>: the user can visualize the difference between today’s and yesterday’s price of a crypto.</p></li>
+<li><p><strong>Option 0</strong>: it closes the program by breaking the loop.</p></li>
+</ul>
+</li>
+</ol>
+<p>Here we document all the functions used.</p>
+<section id="the-authentication-function">
+<h4>The authentication function<a class="headerlink" href="#the-authentication-function" title="Link to this heading">#</a></h4>
+<p>The authentication function authenticates the user by verifying their email che API token.<br />
+<br />
+This is a use case of the <code class="docutils literal notranslate"><span class="pre">GET/ping</span></code> method shown in the <a class="reference external" href="https://www.coingecko.com/api/documentation">documentation</a>.<br />
+<br />
+This method has no parameters and returns 200 if the authentication is successful.<br />
+<br />
+In Python, we can test it as follows:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos"> 1</span><span class="c1"># Try access by pinging the dedicated URL</span>
+<span class="linenos"> 2</span><span class="k">try</span><span class="p">:</span>
+<span class="linenos"> 3</span>    <span class="n">ping_url</span> <span class="o">=</span> <span class="s2">&quot;https://api.coingecko.com/api/v3/ping&quot;</span>
+<span class="linenos"> 4</span>    <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="o">=</span><span class="n">ping_url</span><span class="p">,</span> <span class="n">auth</span><span class="o">=</span><span class="n">auth</span><span class="p">)</span>
+<span class="linenos"> 5</span>    <span class="k">if</span> <span class="n">response</span><span class="o">.</span><span class="n">status_code</span> <span class="o">==</span> <span class="mi">200</span><span class="p">:</span>
+<span class="linenos"> 6</span>        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">Access succesfully granted to the API!&quot;</span><span class="p">)</span>
+<span class="linenos"> 7</span>    <span class="k">else</span><span class="p">:</span>
+<span class="linenos"> 8</span>        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">An error occurred while autenticating. Please: try again!&quot;</span><span class="p">)</span>
+<span class="linenos"> 9</span><span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+<span class="linenos">10</span>    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">An exception occurred:&quot;</span><span class="p">,</span> <span class="n">e</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>Were the authentication is performed from the email and the API token imported from the <code class="docutils literal notranslate"><span class="pre">settings.py</span></code> file like so (complete code reference <a class="reference external" href="https://github.com/federico-trotta/crypto_prices_API/blob/main/main.py">here</a>):</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="c1"># Import settings from the settings file</span>
+<span class="linenos">2</span><span class="n">email</span> <span class="o">=</span> <span class="n">settings</span><span class="o">.</span><span class="n">EMAIL</span>
+<span class="linenos">3</span><span class="n">token</span> <span class="o">=</span> <span class="n">settings</span><span class="o">.</span><span class="n">API_TOKEN</span>
+<span class="linenos">4</span><span class="n">auth</span> <span class="o">=</span> <span class="p">(</span><span class="n">email</span> <span class="o">+</span> <span class="s2">&quot;/token&quot;</span><span class="p">,</span> <span class="n">token</span><span class="p">)</span> <span class="c1"># Create authenticator</span>
+</pre></div>
+</div>
+</section>
+<section id="the-price-module">
+<h4>The <code class="docutils literal notranslate"><span class="pre">price</span></code> module<a class="headerlink" href="#the-price-module" title="Link to this heading">#</a></h4>
+<p><a class="reference external" href="https://github.com/federico-trotta/crypto_prices_API/blob/main/functions/price.py">This module</a> has two functions that retrieve the price of a currency using the API and make some calculations.
+The function <code class="docutils literal notranslate"><span class="pre">visualize_price()</span></code> calls the API using the <code class="docutils literal notranslate"><span class="pre">GET/simple/price</span></code> method.
+Here’s how this method can be used to show the current price of one crypto with respect to a currency:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos"> 1</span><span class="k">def</span> <span class="nf">visualize_price</span><span class="p">(</span><span class="n">auth</span><span class="p">:</span><span class="nb">str</span><span class="p">)</span><span class="o">-&gt;</span><span class="kc">None</span><span class="p">:</span>
+<span class="linenos"> 2</span><span class="w">    </span><span class="sd">&quot;&quot;&quot;Shows the current price of a crypto with respect to a currency.</span>
+<span class="linenos"> 3</span><span class="sd">    The auth variable is created in the main.py file.</span>
+<span class="linenos"> 4</span><span class="sd">    &quot;&quot;&quot;</span>
+<span class="linenos"> 5</span>     <span class="c1"># User inserts crypto and currency</span>
+<span class="linenos"> 6</span>    <span class="n">crypto</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">Choose your crypto (for example, write &#39;bitcoin&#39;):</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="linenos"> 7</span>    <span class="n">currency</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Choose the currency (for example, write &#39;usd&#39;):</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="linenos"> 8</span>   
+<span class="linenos"> 9</span>    <span class="c1"># API call</span>
+<span class="linenos">10</span>    <span class="n">url_price</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;https://api.coingecko.com/api/v3/simple/price?ids=</span><span class="si">{</span><span class="n">crypto</span><span class="si">}</span><span class="s2">&amp;vs_currencies=</span><span class="si">{</span><span class="n">currency</span><span class="si">}</span><span class="s2">&quot;</span>
+<span class="linenos">11</span>
+<span class="linenos">12</span>    <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="o">=</span><span class="n">url_price</span><span class="p">,</span> <span class="n">auth</span><span class="o">=</span><span class="n">auth</span><span class="p">)</span>
+<span class="linenos">13</span>
+<span class="linenos">14</span>    <span class="c1"># Print current price of a crypto in the selected currency</span>
+<span class="linenos">15</span>    <span class="k">try</span><span class="p">:</span>
+<span class="linenos">16</span>        <span class="k">if</span> <span class="n">response</span><span class="o">.</span><span class="n">status_code</span> <span class="o">==</span> <span class="mi">200</span><span class="p">:</span>
+<span class="linenos">17</span>            <span class="n">data</span> <span class="o">=</span> <span class="n">response</span><span class="o">.</span><span class="n">json</span><span class="p">()</span>
+<span class="linenos">18</span>            <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">The current price for </span><span class="si">{</span><span class="n">crypto</span><span class="si">}</span><span class="s2"> is: </span><span class="si">{</span><span class="n">data</span><span class="p">[</span><span class="n">crypto</span><span class="p">][</span><span class="n">currency</span><span class="p">]</span><span class="si">:</span><span class="s2"> .1f</span><span class="si">}</span><span class="s2"> </span><span class="si">{</span><span class="n">currency</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="linenos">19</span>        <span class="k">else</span><span class="p">:</span>
+<span class="linenos">20</span>            <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;An error occurred while getting the price: please, try again!&quot;</span><span class="p">)</span>
+<span class="linenos">21</span>     <span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+<span class="linenos">22</span>        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;An exception occurred while trying to get the currency value&quot;</span><span class="p">,</span> <span class="n">e</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>For example, suppose we want to know the current price of bitcoin in USD. Here’s what you’ll see:</p>
+<figure class="align-center" id="id5">
+<img alt="An image of the program by Federico Trotta." src="_images/coingecko_price.png" />
+<figcaption>
+<p><span class="caption-text"><em>The current price of bitcoin in USD ($).</em></span><a class="headerlink" href="#id5" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<p>The function <code class="docutils literal notranslate"><span class="pre">price_change()</span></code> calls the API using the <code class="docutils literal notranslate"><span class="pre">GET/coins/{id}/market_chart</span></code> method. <br />
+<br />
+Here’s how this method can be used to calculate the current price of a crypt with respect to a currency and its yesterday’s price. We can also calculate the change in price during the day and print it:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos"> 1</span><span class="k">def</span> <span class="nf">price_change</span><span class="p">(</span><span class="n">auth</span><span class="p">:</span><span class="nb">str</span><span class="p">)</span><span class="o">-&gt;</span><span class="kc">None</span><span class="p">:</span>
+<span class="linenos"> 2</span><span class="w">    </span><span class="sd">&#39;&#39;&#39;Shows the difference of the price of a crypto in a currency with respect to the value it had yesterday.</span>
+<span class="linenos"> 3</span><span class="sd">    The auth variable is created in the main.py file.</span>
+<span class="linenos"> 4</span><span class="sd">    &#39;&#39;&#39;</span>
+<span class="linenos"> 5</span>
+<span class="linenos"> 6</span>    <span class="c1"># User inserts crypto and currency</span>
+<span class="linenos"> 7</span>    <span class="n">crypto</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">Choose your crypto (for example, write &#39;bitcoin&#39;):</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="linenos"> 8</span>    <span class="n">currency</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Choose the currency (for example, write &#39;usd&#39;):</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="linenos"> 9</span>
+<span class="linenos">10</span>    <span class="c1"># API call</span>
+<span class="linenos">11</span>    <span class="n">url_increment</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;https://api.coingecko.com/api/v3/coins/</span><span class="si">{</span><span class="n">crypto</span><span class="si">}</span><span class="s2">/market_chart?vs_currency=</span><span class="si">{</span><span class="n">currency</span><span class="si">}</span><span class="s2">&amp;days=1&amp;interval=daily&quot;</span>
+<span class="linenos">12</span>
+<span class="linenos">13</span>    <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="o">=</span><span class="n">url_increment</span><span class="p">,</span> <span class="n">auth</span><span class="o">=</span><span class="n">auth</span><span class="p">)</span>
+<span class="linenos">14</span>
+<span class="linenos">15</span>    <span class="k">try</span><span class="p">:</span>
+<span class="linenos">16</span>        <span class="k">if</span> <span class="n">response</span><span class="o">.</span><span class="n">status_code</span> <span class="o">==</span> <span class="mi">200</span><span class="p">:</span>
+<span class="linenos">17</span>            <span class="n">data</span> <span class="o">=</span> <span class="n">response</span><span class="o">.</span><span class="n">json</span><span class="p">()</span>
+<span class="linenos">18</span>            <span class="n">current_value</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s2">&quot;prices&quot;</span><span class="p">][</span><span class="mi">1</span><span class="p">][</span><span class="mi">1</span><span class="p">]</span>
+<span class="linenos">19</span>            <span class="n">yesterday_value</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s2">&quot;prices&quot;</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="mi">1</span><span class="p">]</span>
+<span class="linenos">20</span>            <span class="n">change_price</span> <span class="o">=</span> <span class="n">current_value</span> <span class="o">-</span> <span class="n">yesterday_value</span>
+<span class="linenos">21</span>            <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">The current value of </span><span class="si">{</span><span class="n">crypto</span><span class="si">}</span><span class="s2"> is </span><span class="si">{</span><span class="n">current_value</span><span class="si">:</span><span class="s2"> .1f</span><span class="si">}</span><span class="s2"> </span><span class="si">{</span><span class="n">currency</span><span class="si">}</span><span class="s2"> while yesterday&#39;s value was </span><span class="si">{</span><span class="n">yesterday_value</span><span class="si">:</span><span class="s2"> .1f</span><span class="si">}</span><span class="s2"> </span><span class="si">{</span><span class="n">currency</span><span class="si">}</span><span class="s2">.</span><span class="se">\n</span><span class="s2">So, the price has changed by </span><span class="si">{</span><span class="n">change_price</span><span class="si">:</span><span class="s2"> .1f</span><span class="si">}</span><span class="s2"> </span><span class="si">{</span><span class="n">currency</span><span class="si">}</span><span class="s2"> from yesterday&quot;</span><span class="p">)</span>
+<span class="linenos">22</span>        <span class="k">else</span><span class="p">:</span>
+<span class="linenos">23</span>            <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;An error occurred while getting the price: please, try again!&quot;</span><span class="p">)</span>
+<span class="linenos">24</span>    <span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+<span class="linenos">25</span>        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;An exception occurred while trying to get the currency value&quot;</span><span class="p">,</span> <span class="n">e</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>For example, suppose we want to know the price of Ethereum in EUR. We’d get the following:</p>
+<figure class="align-center" id="id6">
+<img alt="An image of the program by Federico Trotta." src="_images/coingecko_price_difference.png" />
+<figcaption>
+<p><span class="caption-text"><em>The price of Ethereum in EUR (€)</em></span><a class="headerlink" href="#id6" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<p>Note that the response to the <code class="docutils literal notranslate"><span class="pre">GET</span></code> call is the following:</p>
+<figure class="align-center" id="id7">
+<img alt="An image of the program by Federico Trotta." src="_images/coingecko_get.png" />
+<figcaption>
+<p><span class="caption-text"><em>The GET response.</em></span><a class="headerlink" href="#id7" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<p>This is why the slicing used is:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">current_value</span> <span class="pre">=</span> <span class="pre">data[&quot;prices&quot;][1][1]</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">yesterday_value</span> <span class="pre">=</span> <span class="pre">data[&quot;prices&quot;][0][1]</span></code></p></li>
+</ul>
+</section>
+<section id="the-cvs-creation-module">
+<h4>The <code class="docutils literal notranslate"><span class="pre">cvs_creation</span></code> module<a class="headerlink" href="#the-cvs-creation-module" title="Link to this heading">#</a></h4>
+<p><a class="reference external" href="https://github.com/federico-trotta/crypto_prices_API/blob/main/functions/csv_creation.py">This module</a> has two functions:</p>
+<ul class="simple">
+<li><p>The function <code class="docutils literal notranslate"><span class="pre">new_csv()</span></code> creates a CSV writing the header, if it doesn’t exist.</p></li>
+<li><p>The function <code class="docutils literal notranslate"><span class="pre">write_data()</span></code> writes the current value of a crypto in a currency on the current date.</p></li>
+</ul>
+</section>
+</section>
+<section id="using-the-main-file">
+<h3>Using the main file<a class="headerlink" href="#using-the-main-file" title="Link to this heading">#</a></h3>
+<p>The main file is built as a menu with two options:</p>
+<ul class="simple">
+<li><p>Option 1 writes the current value of a crypto and stores its value in the CVS, if the user wants-</p></li>
+<li><p>Option 2 prints the difference in the value of a crypto between today and yesterday.</p></li>
+</ul>
+<p>Let’s show how the software is expected to work:</p>
+<figure class="align-center" id="id8">
+<img alt="An image of the program by Federico Trotta." src="_images/coingecko_working.gif" />
+<figcaption>
+<p><span class="caption-text"><em>The expected result.</em></span><a class="headerlink" href="#id8" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          
+          <a class="prev-page" href="internal_documentation.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Internal documentation</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                Copyright &#169; 2023, Federico Trotta
+            </div>
+            Made with <a href="https://www.sphinx-doc.org/">Sphinx</a> and <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">API documentation</a><ul>
+<li><a class="reference internal" href="#zendesk-api-oauth-tokens-management-documentation">Zendesk API: OAuth tokens management documentation</a><ul>
+<li><a class="reference internal" href="#prerequisites">Prerequisites</a><ul>
+<li><a class="reference internal" href="#get-a-zendesk-subdomain">Get a Zendesk subdomain</a></li>
+<li><a class="reference internal" href="#create-an-api-token">Create an API token</a></li>
+<li><a class="reference internal" href="#python-prerequisites">Python prerequisites</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#use-cases-implementation">Use cases implementation</a><ul>
+<li><a class="reference internal" href="#admin-authenticator">Admin authenticator</a></li>
+<li><a class="reference internal" href="#how-to-create-an-oauth-token">How to create an OAuth token</a></li>
+<li><a class="reference internal" href="#how-to-revoke-active-oauth-tokens">How to revoke active OAuth tokens</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#beam-api-training-a-machine-learning-model-on-a-serverless-gpu">Beam API: training a Machine Learning model on a serverless GPU</a></li>
+<li><a class="reference internal" href="#coingecko-api-getting-crypto-values">CoinGecko API: getting crypto values</a><ul>
+<li><a class="reference internal" href="#id1">Prerequisites</a></li>
+<li><a class="reference internal" href="#requirements">Requirements</a></li>
+<li><a class="reference internal" href="#getting-started">Getting started</a></li>
+<li><a class="reference internal" href="#structure-of-the-main-file">Structure of the main file</a><ul>
+<li><a class="reference internal" href="#the-authentication-function">The authentication function</a></li>
+<li><a class="reference internal" href="#the-price-module">The <code class="docutils literal notranslate"><span class="pre">price</span></code> module</a></li>
+<li><a class="reference internal" href="#the-cvs-creation-module">The <code class="docutils literal notranslate"><span class="pre">cvs_creation</span></code> module</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#using-the-main-file">Using the main file</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script src="_static/documentation_options.js?v=8dde47fa"></script>
+    <script src="_static/doctools.js?v=888ff710"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/furo.js?v=32e29ea5"></script>
+    </body>
+</html>

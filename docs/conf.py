@@ -27,9 +27,9 @@ extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.todo",
     "sphinx.ext.viewcode",
-    # Our custom extension, only meant for Furo's own documentation.
+    # For Furo's own documentation
     "furo.sphinxext",
-    # External stuff
+    # Myst parser
     "myst_parser",
 ]
 
