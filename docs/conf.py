@@ -46,3 +46,7 @@ html_static_path = ['_static']
 html_title = "My portfolio"
 myst_enable_extensions = ["colon_fence"] # For admonitions (read also: https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#syntax-colon-fence)
 myst_number_code_blocks = ["python"] # Numbering lines in code blocks (read also: https://myst-parser.readthedocs.io/en/latest/syntax/code_and_apis.html)
+
+
+
+# Deploy tutorial: https://medium.com/practical-coding/documenting-your-python-library-from-zero-to-website-488f87ae58f5
