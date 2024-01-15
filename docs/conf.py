@@ -43,7 +43,7 @@ exclude_patterns = []
 
 html_theme = 'furo'
 html_static_path = ['_static']
-html_title = "My portfolio"
+html_title = "Federico Trotta's portfolio"
 myst_enable_extensions = ["colon_fence"] # For admonitions (read also: https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#syntax-colon-fence)
 myst_number_code_blocks = ["python"] # Numbering lines in code blocks (read also: https://myst-parser.readthedocs.io/en/latest/syntax/code_and_apis.html)
 
