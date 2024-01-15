@@ -3,10 +3,10 @@ This section show how I document digital products.
 
 ***
 
-## Documentation for 4Securitas
+## Documentation for Dectar
 As the only Technical Writer in the firm, I had the honor and the responsibility to define the structure of the documentation, both in English and Italian.\
 \
-I also provide comprehensive internal documentation to ensure all teams are up-to-date with [4Securitas](https://dectar.com/) solutions.\
+I also provide comprehensive internal documentation to ensure all teams are up-to-date with [Dectar](https://dectar.com/) solutions.\
 Especially, I help the Support Team keep track of the troubleshooting by writing internal procedures.\
 ​​\
 When I started this collaboration, there was some documentation but this was a task performed by the Support Team. I rearranged and polished the existing content to help users better understand the products, and started creating new documentation.\
