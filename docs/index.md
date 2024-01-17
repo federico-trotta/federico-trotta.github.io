@@ -10,9 +10,9 @@ internal_documentation
 api_documentation
 ```
 
-I am Federico Trotta, and I'm a Technical Writer.\
+Hi, my name is Federico Trotta, and I'm a freelance Technical Writer.\
 \
-You may found this portfolio on other sources and want to know more amor me. \
+You may found this portfolio on other sources and want to know more about me. \
 \
 If this is the case, here are all the other platform where you can find more about me:
 
@@ -20,7 +20,7 @@ If this is the case, here are all the other platform where you can find more abo
 - [Website](https://federicotrotta.com/)
 - [GitHub](https://github.com/federico-trotta)
 
-Now you can enjooy my portfolio!
+Now you can enjoy my portfolio by navigating throu the sections on the leftside bar!
 
 
 ***
