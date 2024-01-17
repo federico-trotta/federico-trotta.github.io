@@ -20,7 +20,7 @@ If this is the case, here are all the other platform where you can find more abo
 - [Website](https://federicotrotta.com/)
 - [GitHub](https://github.com/federico-trotta)
 
-Now you can enjoy my portfolio by navigating throu the sections on the leftside bar!
+Now you can enjoy my portfolio by navigating through the sections on the leftside bar!
 
 
 ***
