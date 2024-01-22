@@ -4,11 +4,11 @@ This section shows the article I wrote for different online websites.
 ***
 
 ## My best Medium articles
-With tens of published articles, I started my Technical Writing career on Medium, particularly with the established [Towards Data Science](https://towardsdatascience.com/) website.\
+With tens of published articles, I started my Technical Writing career on Medium, particularly with the established publication [Towards Data Science](https://towardsdatascience.com/).\
 \
 I have published articles about a variety of topics, including Python programming, statistical concepts for Data Scientists, Machine Learning, technology, and programming in general.\
 \
-Here's a list of my best articles:
+Here's the list of my best articles:
 
 ### Tutorials
 - [How to Convert a CSV file into an XLSX one with Python and Pandas](https://towardsdatascience.com/how-to-convert-a-csv-file-into-an-xlsx-one-with-python-and-pandas-27aabc279d69?source=your_stories_page-------------------------------------)
@@ -67,24 +67,31 @@ Here's a list of my best articles:
 ## My articles for Stack Abuse
 [Stack Abuse](https://stackabuse.com/) is a firm that helps developers through programming tutorials and courses.\
 \
-Among the others, I wrote the following articles:
+I wrote the following articles:
 - [Python Dictionary Comprehension: A Fast and Flexible Way to Build Dictionaries](https://stackabuse.com/python-dictionary-comprehension-a-fast-and-flexible-way-to-build-dictionaries/)
 - [The Power of Indexing: Boosting Data Wrangling Efficiency with Pandas](https://stackabuse.com/the-power-of-indexing-boosting-data-wrangling-efficiency-with-pandas/)
-
-Read all my contributions to Stack Abuse [here](https://stackabuse.com/author/federico/).
+- [Data Integrity: How OrderedDict Preserves Key Order in Python](https://stackabuse.com/data-integrity-how-ordereddict-preserves-key-order-in-python/)
+- [Finding Numbers in Various Data Types in Python](https://stackabuse.com/finding-numbers-in-various-data-types-in-python/)
 
 ***
 
 ## My articles for Codemotion
 [Codemotion](https://www.codemotion.com/) is an Italian firm that helps developers grow.\
 \
-I wrote articles for the English and Italian Codemotion magazines.\
-\
-Here are some of them:
+I wrote the following articles for the English magazines:
+
 - [Unsupervised Learning in Python: A Gentle Introduction to Clustering Techniques for Discovering Patterns](https://www.codemotion.com/magazine/ai-ml/machine-learning/clustering-python-patterns/)
 - [Data Analysis Made Easy: Mastering Pandas for Insightful Results](https://www.codemotion.com/magazine/data-science/data-analysis-made-easy-mastering-pandas-for-insightful-results/)
+- [Python and Databricks: A Dynamic Duo for Data Dominance](https://www.codemotion.com/magazine/data-science/python-and-databricks-a-dynamic-duo-for-data-dominance/)
+- [Python: The Versatile Programming Language That Captivates Everyone](https://www.codemotion.com/magazine/languages/python/)
 
-Read all my contributions to the English magazine [here](https://www.codemotion.com/magazine/author/federico-trotta/) and to the Italian magazine [here](https://www.codemotion.com/magazine/it/author/federico-trotta/).
+And the following articles for the Italian magazine:
+- [Creative Coding: Come Creare Opere d’Arte Programmando](https://www.codemotion.com/magazine/it/backend-it/creative-coding-come-creare-splendide-opere-darte-programmando/)
+- [La gestione degli errori resa semplice: una introduzione in Python](https://www.codemotion.com/magazine/it/backend-it/gestione-errori-python/)
+- [Apprendimento Non Supervisionato in Python: Una Introduzione alle Tecniche di Clustering per Scoprire i Pattern](https://www.codemotion.com/magazine/it/linguaggi-programmazione/introduzione-alle-tecniche-di-clustering/)
+- [Python e DataBricks: la giusta accoppiata per dominare i dati](https://www.codemotion.com/magazine/it/data-science-it/python-e-databricks-la-giusta-accoppiata-per-dominare-i-dati/)
+- [L’analisi dei dati resa semplice: padroneggia Pandas per ottenere risultati dai tuoi dati](https://www.codemotion.com/magazine/it/data-science-it/analisi-dei-dati-pandas/)
+- [Come programmare con Python: Il linguaggio versatile che conquista tutti](https://www.codemotion.com/magazine/it/linguaggi-programmazione/programmare-con-python/)
 
 ***
 
@@ -101,7 +108,7 @@ Read them [here](https://planetachatbot.com/author/federico-trotta/).
 
 ***
 
-## Repurposed articles
-[KDnuggets](https://www.kdnuggets.com/) repurposed some of the articles I wrote on Towards Data Science.\
+## Repurposed articles from KdNuggets
+[KDnuggets](https://www.kdnuggets.com/) repurposed some of the articles I wrote for Towards Data Science: read them [here](https://www.kdnuggets.com/author/federico-trotta).\
 \
-Read them [here](https://www.kdnuggets.com/author/federico-trotta).
+I've also been featured [here](https://www.kdnuggets.com/2023/n31.html) and mentioned [there](https://www.kdnuggets.com/2023/n21.html).

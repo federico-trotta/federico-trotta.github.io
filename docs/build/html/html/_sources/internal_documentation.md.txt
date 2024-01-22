@@ -11,24 +11,24 @@ I document all of them, depending on the company's needs.
 
 ***
 
-## Internal documentation for 4Securitas
-Here's how I worked on the internal documentation for 4Securitas:
+## Internal documentation for Dectar
+Here's how I worked on the internal documentation for Dectar:
 - I created the structure of the documentation, dividing the topics into two: `Support Infrastructure` and `Support Troubleshooting`. The Infrastructure section has articles regarding knowledge or procedures. The Troubleshooting section has only articles regarding procedures on how to solve troubles internally.
 
 ```{figure} images/internal/4securitas_structure.png
-:alt: The structure of the internal documentation for 4Securitas created by Federico Trotta.
+:alt: The structure of the internal documentation for Dectar created by Federico Trotta.
 :align: center
 
-*The internal documentation structure I created for 4Securitas.*
+*The internal documentation structure I created for Dectar.*
 ```
 
 - The articles are generally structured as step-by-step procedures, providing code or scripts as needed:
 
 ```{figure} images/internal/4securitas_article.png
-:alt: An internal article for 4Securitas created by Federico Trotta.
+:alt: An internal article for Dectar created by Federico Trotta.
 :align: center
 
-*An internal procedure I created for 4Securitas.*
+*An internal procedure I created for Dectar.*
 ```
 
 ***

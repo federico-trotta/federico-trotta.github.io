@@ -46,7 +46,7 @@ Here's a list of the technologies and software I use when working:
 ***
 
 :::{note}
-This portfolio is proudly created with Sphinx.\
+This portfolio is proudly created with [Sphinx](https://www.sphinx-doc.org/en/master/).\
 \
-To a project with Sphinx, you can look at the source code in [my repository here](https://github.com/federico-trotta/federico-trotta.github.io)
+Read the source code in [my repository here](https://github.com/federico-trotta/federico-trotta.github.io) to know more.
 :::
