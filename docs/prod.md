@@ -1,5 +1,5 @@
 # Products documentation
-This section show how I document digital products.
+This section shows how I document digital products.
 
 ***
 

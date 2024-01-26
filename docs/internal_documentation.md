@@ -36,7 +36,7 @@ Here's how I worked on the internal documentation for Dectar:
 ## Internal documentation for DeAgostini
 [DeAgostini](https://www.deagostini.com/) is the world leader in collectibles.\
 \
-As the only Technical Writer, I'm contributing to design and create their internal documentation to improve their employee explerience in their daily tasks.\
+As the only Technical Writer, I'm contributing to design and create their internal documentation to improve their employee experience in their daily tasks.\
 \
 Here are the details of what I'm documenting for DeAgostini.
 

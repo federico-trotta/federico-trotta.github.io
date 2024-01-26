@@ -12,9 +12,9 @@ api_documentation
 
 Hi, my name is Federico Trotta, and I'm a freelance Technical Writer.\
 \
-You may found this portfolio on other sources and want to know more about me. \
+You may have found this portfolio in other sources and want to know more about me. \
 \
-If this is the case, here are all the other platform where you can find more about me:
+If this is the case, here are all the other platforms where you can find more about me:
 
 - [Linkedin](https://www.linkedin.com/in/federico-trotta/)
 - [Website](https://federicotrotta.com/)
@@ -32,7 +32,7 @@ Here's a list of the technologies and software I use when working:
 - Python.
 - HTML.
 - VS CODE.
-- Prompt Engineering technicques.
+- Prompt Engineering techniques.
 - Flameshot & Licecap (to create images and GIFs, respectively).
 - Excalidraw to create diagrams and technical images.
 - Markdown.
