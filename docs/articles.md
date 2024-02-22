@@ -78,7 +78,7 @@ I wrote the following articles:
 ## My articles for Codemotion
 [Codemotion](https://www.codemotion.com/) is an Italian firm that helps developers grow.\
 \
-I wrote the following articles for the English magazines:
+I wrote the following articles for the English magazine:
 
 - [Unsupervised Learning in Python: A Gentle Introduction to Clustering Techniques for Discovering Patterns](https://www.codemotion.com/magazine/ai-ml/machine-learning/clustering-python-patterns/)
 - [Data Analysis Made Easy: Mastering Pandas for Insightful Results](https://www.codemotion.com/magazine/data-science/data-analysis-made-easy-mastering-pandas-for-insightful-results/)
@@ -92,6 +92,10 @@ And the following articles for the Italian magazine:
 - [Python e DataBricks: la giusta accoppiata per dominare i dati](https://www.codemotion.com/magazine/it/data-science-it/python-e-databricks-la-giusta-accoppiata-per-dominare-i-dati/)
 - [L’analisi dei dati resa semplice: padroneggia Pandas per ottenere risultati dai tuoi dati](https://www.codemotion.com/magazine/it/data-science-it/analisi-dei-dati-pandas/)
 - [Come programmare con Python: Il linguaggio versatile che conquista tutti](https://www.codemotion.com/magazine/it/linguaggi-programmazione/programmare-con-python/)
+
+### Codemotion for Istituto Poligrafico Zecca dello Stato e Politecnico di Bari
+I contributed to writing an article on a study made by Istituto Poligrafico Zecca dello Stato and Politecnico di Bari about the creation of a knowledge graph of the whole Italian regulatory database:
+-  [Come Realizzare un Knowledge Graph dell’intera Banca Dati Normativa Italiana](https://www.codemotion.com/magazine/it/data-science-it/knowledge-graph-dellintera-banca-dati-normativa-italiana/)
 
 ***
 
