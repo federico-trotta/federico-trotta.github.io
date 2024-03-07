@@ -16,7 +16,7 @@ Here's the list of my best articles:
 - [How to Perform Feature Selection in a Data Science Project](https://towardsdatascience.com/how-to-perform-feature-selection-in-a-data-science-project-591ba96f86eb)
 - [How To Detect Outliers in a Data Science Project](https://towardsdatascience.com/how-to-detect-outliers-in-a-data-science-project-17f39653fb17?source=your_stories_page-------------------------------------)
 - [How to create a repository on GitHub](https://blog.devgenius.io/how-to-create-a-repository-on-github-5a5ce219ddba?source=your_stories_page-------------------------------------)
-- [How and why creating configurations files in your Data Science projects](https://medium.com/mlearning-ai/how-and-why-creating-configurations-files-in-your-data-science-projects-1821b89cf47b?source=your_stories_page-------------------------------------)
+- [How and why creating configuration files in your Data Science projects](https://medium.com/mlearning-ai/how-and-why-creating-configurations-files-in-your-data-science-projects-1821b89cf47b?source=your_stories_page-------------------------------------)
 - [How Argparse can be useful in your Data Science projects](https://medium.com/mlearning-ai/how-argparse-can-be-useful-in-your-data-science-projects-ecf02bef3b07?source=your_stories_page-------------------------------------)
 - [How to access Google Sheets on Google Colaboratory](https://medium.com/mlearning-ai/how-to-access-google-sheets-on-google-colaboratory-8766b3a0996f?source=your_stories_page-------------------------------------)
 - [How to calculate RGB values for some images in Python](https://medium.com/analytics-vidhya/how-to-calculate-rgb-values-for-some-images-in-python-ccf9abcea8f3?source=your_stories_page-------------------------------------)
@@ -96,6 +96,14 @@ And the following articles for the Italian magazine:
 ### Codemotion for Istituto Poligrafico Zecca dello Stato e Politecnico di Bari
 I contributed to writing an article on a study made by Istituto Poligrafico Zecca dello Stato and Politecnico di Bari about the creation of a knowledge graph of the whole Italian regulatory database:
 -  [Come Realizzare un Knowledge Graph dell’intera Banca Dati Normativa Italiana](https://www.codemotion.com/magazine/it/data-science-it/knowledge-graph-dellintera-banca-dati-normativa-italiana/)
+
+***
+
+## My articles for Semaphore
+[Semaphore](https://semaphoreci.com/) helps technology companies achieve better results.
+
+Read the articles I wrote for their blog:
+- [How to Handle Imbalanced Data for Machine Learning in Python](https://semaphoreci.com/blog/imbalanced-data-machine-learning-python)
 
 ***
 
