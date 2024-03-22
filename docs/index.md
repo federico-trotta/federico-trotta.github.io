@@ -8,6 +8,7 @@ articles
 prod
 internal_documentation
 api_documentation
+publications
 ```
 
 Hi, my name is Federico Trotta, and I'm a freelance Technical Writer.\
