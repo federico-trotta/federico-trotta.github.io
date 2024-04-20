@@ -102,6 +102,21 @@ I contributed to writing an article on a study made by Istituto Poligrafico Zecc
 
 Read the articles I wrote for their blog:
 - [How to Handle Imbalanced Data for Machine Learning in Python](https://semaphoreci.com/blog/imbalanced-data-machine-learning-python)
+- Flaky Tests in Machine Learning: Challenges and Countermeasures \
+:::{attention}
+The article is under the publication process.
+:::
+
+***
+
+## My articles for n8n
+[N8n](https://n8n.io/) is a low-code automation tool that helps developers save time by creating stunning automations.
+
+Read the articles I wrote fot their blog:
+- How to make a Slack bot: Python vs. n8n Guide \
+:::{attention}
+The article is under the publication process.
+:::
 
 ***
 
@@ -122,3 +137,16 @@ Read them [here](https://planetachatbot.com/author/federico-trotta/).
 [KDnuggets](https://www.kdnuggets.com/) repurposed some of the articles I wrote for Towards Data Science: read them [here](https://www.kdnuggets.com/author/federico-trotta).\
 \
 I've also been featured [here](https://www.kdnuggets.com/2023/n31.html) and mentioned [there](https://www.kdnuggets.com/2023/n21.html).
+
+
+***
+
+## Coming soon articles
+I'm having the privilege to co-author the following articles with [Karin Wolok](https://www.projectelevate.io/):
+- An Introduction to Stream Processing
+- Choosing The Right Stream Processing System: A Comprehensive Guide
+- Exploring The Dynamics of Streaming Databases
+
+:::{attention}
+The articles are under the publication process.
+:::

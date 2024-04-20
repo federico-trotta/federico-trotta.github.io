@@ -19,7 +19,7 @@ Here's how I worked on the internal documentation for Dectar:
 :alt: The structure of the internal documentation for Dectar created by Federico Trotta.
 :align: center
 
-*The internal documentation structure I created for Dectar.*
+*The internal documentation structure Federico Trotta created for Dectar.*
 ```
 
 - The articles are generally structured as step-by-step procedures, providing code or scripts as needed:
@@ -28,7 +28,7 @@ Here's how I worked on the internal documentation for Dectar:
 :alt: An internal article for Dectar created by Federico Trotta.
 :align: center
 
-*An internal procedure I created for Dectar.*
+*An internal procedure Federico Trotta created for Dectar.*
 ```
 
 ***
