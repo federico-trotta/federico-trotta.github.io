@@ -102,7 +102,8 @@ This article is under the publication process.
 [N8n](https://n8n.io/) is a low-code automation tool that helps developers save time by creating stunning automations.
 
 Read the articles I wrote fot their blog:
-- How to make a Slack bot: Python vs. n8n Guide 
+- [How to make a Slack bot: Python vs. n8n Guide](https://blog.n8n.io/how-to-make-slack-bot/) 
+- The best 12 workflow automation tools to automate your workflows
 :::{attention}
 The article is under the publication process.
 :::
