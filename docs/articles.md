@@ -91,10 +91,7 @@ I contributed to writing an article on a study made by Istituto Poligrafico Zecc
 Read the articles I wrote for their blog:
 - [How to Handle Imbalanced Data for Machine Learning in Python](https://semaphoreci.com/blog/imbalanced-data-machine-learning-python)
 - [Flaky Tests in Machine Learning: Challenges and Countermeasures](https://semaphoreci.com/blog/flaky-tests-machine-learning)
-- Unlocking Efficiency: 3 AI Tools for Automatic Software Documentation
-:::{attention}
-This article is under the publication process.
-:::
+- [Unlocking Efficiency: 3 AI Tools for Automatic Software Documentation](https://semaphoreci.com/blog/ai-tools-software-documentation)
 
 ***
 
