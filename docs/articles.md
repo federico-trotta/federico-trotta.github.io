@@ -110,11 +110,11 @@ The article is under the publication process.
 ## My articles for DZone
 I'm having the privilege to co-author the following articles with [Karin Wolok](https://www.projectelevate.io/):
 - [An Introduction to Stream Processing](https://dzone.com/articles/an-introduction-to-stream-processing)
-- Choosing The Right Stream Processing System: A Comprehensive Guide
+- [Choosing The Right Stream Processing System: A Comprehensive Guide](https://dzone.com/articles/choosing-the-right-stream-processing-system)
 - Exploring The Dynamics of Streaming Databases
 
 :::{attention}
-The last two articles are under the publication process.
+The last article is under the publication process.
 :::
 
 ***
