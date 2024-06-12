@@ -85,7 +85,7 @@ I contributed to writing an article on a study made by Istituto Poligrafico Zecc
 
 ***
 
-## My articles for Semaphore
+## My articles for Semaphore CI
 [Semaphore](https://semaphoreci.com/) helps technology companies achieve better results.
 
 Read the articles I wrote for their blog:
@@ -107,15 +107,23 @@ The article is under the publication process.
 
 ***
 
+## My articles for AppSignal
+[AppSignal](https://blog.appsignal.com/) has recently opened its doors to Python articles. Here are the ones I wrote for the blog:
+- How to use Lambda Functions in Python
+- How to use Regular Expressions in Python
+
+:::{attention}
+The articles are under the publication process.
+:::
+
+
+***
+
 ## My articles for DZone
 I'm having the privilege to co-author the following articles with [Karin Wolok](https://www.projectelevate.io/):
 - [An Introduction to Stream Processing](https://dzone.com/articles/an-introduction-to-stream-processing)
 - [Choosing The Right Stream Processing System: A Comprehensive Guide](https://dzone.com/articles/choosing-the-right-stream-processing-system)
-- Exploring The Dynamics of Streaming Databases
-
-:::{attention}
-The last article is under the publication process.
-:::
+- [Exploring The Dynamics of Streaming Databases](https://dzone.com/articles/exploring-the-dynamics-of-streaming-databases)
 
 ***
 
