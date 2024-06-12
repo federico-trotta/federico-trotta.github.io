@@ -125,6 +125,10 @@ I'm having the privilege to co-author the following articles with [Karin Wolok](
 - [Choosing The Right Stream Processing System: A Comprehensive Guide](https://dzone.com/articles/choosing-the-right-stream-processing-system)
 - [Exploring The Dynamics of Streaming Databases](https://dzone.com/articles/exploring-the-dynamics-of-streaming-databases)
 
+:::{important}
+"Exploring The Dynamics of Streaming Databases" has been featured as DZONE's top article in the daily digest newsletter.
+:::
+
 ***
 
 ## My article for Butler Scientifics
