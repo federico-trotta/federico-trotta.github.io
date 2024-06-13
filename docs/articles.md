@@ -100,10 +100,8 @@ Read the articles I wrote for their blog:
 
 Read the articles I wrote fot their blog:
 - [How to make a Slack bot: Python vs. n8n Guide](https://blog.n8n.io/how-to-make-slack-bot/) 
-- The best 12 workflow automation tools to automate your workflows
-:::{attention}
-The article is under the publication process.
-:::
+- [12 workflow automation tools to automate your workflows](https://blog.n8n.io/workflow-automation-tools/)
+
 
 ***
 
