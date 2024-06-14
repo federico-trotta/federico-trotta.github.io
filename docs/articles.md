@@ -127,6 +127,16 @@ I'm having the privilege to co-author the following articles with [Karin Wolok](
 "Exploring The Dynamics of Streaming Databases" has been featured as DZONE's top article in the daily digest newsletter.
 :::
 
+:::{important}
+"Exploring The Dynamics of Streaming Databases" has been also featured on the DZone main page on the 14th of June 2024 as a spotlighted article.
+:::
+
+```{figure} images/articles/DZone-spotlight.png
+:alt: "Exploring The Dynamics of Streaming Databases" by Federico Trotta on DZone's main page.
+:align: center
+
+*"Exploring The Dynamics of Streaming Databases" on DZone's main page*
+```
 ***
 
 ## My article for Butler Scientifics
