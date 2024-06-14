@@ -146,5 +146,3 @@ Read them [here](https://planetachatbot.com/author/federico-trotta/).
 [KDnuggets](https://www.kdnuggets.com/) repurposed some of the articles I wrote for Towards Data Science: read them [here](https://www.kdnuggets.com/author/federico-trotta).
 
 I've also been featured [here](https://www.kdnuggets.com/2023/n31.html) and mentioned [there](https://www.kdnuggets.com/2023/n21.html).
-
-- Test example
