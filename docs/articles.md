@@ -92,6 +92,7 @@ Read the articles I wrote for their blog:
 - [How to Handle Imbalanced Data for Machine Learning in Python](https://semaphoreci.com/blog/imbalanced-data-machine-learning-python)
 - [Flaky Tests in Machine Learning: Challenges and Countermeasures](https://semaphoreci.com/blog/flaky-tests-machine-learning)
 - [Unlocking Efficiency: 3 AI Tools for Automatic Software Documentation](https://semaphoreci.com/blog/ai-tools-software-documentation)
+- [Keeping Self-Hosted LLM Costs Down: Best Practices and Tips](https://semaphoreci.com/blog/llm-cost)
 
 ***
 
@@ -109,6 +110,7 @@ Read the articles I wrote fot their blog:
 [AppSignal](https://blog.appsignal.com/) has recently opened its doors to Python articles. Here are the ones I wrote for the blog:
 - How to use Lambda Functions in Python
 - How to use Regular Expressions in Python
+- Ways to Optimize Python Code
 
 :::{attention}
 The articles are under the publication process.
