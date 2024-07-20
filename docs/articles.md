@@ -111,6 +111,7 @@ Read the articles I wrote fot their blog:
 - How to use Lambda Functions in Python
 - How to use Regular Expressions in Python
 - Ways to Optimize Python Code
+- Flask or Django: Which One Best Fits Your Needs?
 
 :::{attention}
 The articles are under the publication process.
