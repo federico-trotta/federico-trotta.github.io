@@ -102,7 +102,11 @@ Read the articles I wrote for their blog:
 Read the articles I wrote fot their blog:
 - [How to make a Slack bot: Python vs. n8n Guide](https://blog.n8n.io/how-to-make-slack-bot/) 
 - [12 workflow automation tools to automate your workflows](https://blog.n8n.io/workflow-automation-tools/)
+- CRM automation: the brief guide (with 14 workflow templates)
 
+:::{attention}
+The last article is under the publication process.
+:::
 
 ***
 
@@ -140,6 +144,17 @@ I'm having the privilege to co-author the following articles with [Karin Wolok](
 
 *"Exploring The Dynamics of Streaming Databases" on DZone's main page*
 ```
+***
+
+## My articles for Dev.to
+Dev.to is "A constructive and inclusive social network for software developers".
+
+Here's the list of my articles on Dev.to:
+- [Pandas reset_index(): How To Reset Indexes in Pandas](https://dev.to/federicotrotta/pandas-resetindex-how-to-reset-indexes-in-pandas-475b)
+- [How To Easily Remove a Password From a PDF file](https://dev.to/federicotrotta/how-to-easily-remove-a-password-from-a-pdf-file-158b)
+- [How To Create a Repository in GitHub](https://dev.to/federicotrotta/how-to-create-a-repository-in-github-kd6)
+- [How to calculate RGB values in Python](https://dev.to/federicotrotta/how-to-calculate-rgb-values-in-python-3ph5)
+
 ***
 
 ## My article for Butler Scientifics
