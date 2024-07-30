@@ -150,6 +150,7 @@ I'm having the privilege to co-author the following articles with [Karin Wolok](
 Dev.to is "A constructive and inclusive social network for software developers".
 
 Here's the list of my articles on Dev.to:
+- [Serverless Cost Optimization Three Key Strategies](https://dev.to/federicotrotta/serverless-cost-optimization-three-key-strategies-442f)
 - [Pandas reset_index(): How To Reset Indexes in Pandas](https://dev.to/federicotrotta/pandas-resetindex-how-to-reset-indexes-in-pandas-475b)
 - [How To Easily Remove a Password From a PDF file](https://dev.to/federicotrotta/how-to-easily-remove-a-password-from-a-pdf-file-158b)
 - [How To Create a Repository in GitHub](https://dev.to/federicotrotta/how-to-create-a-repository-in-github-kd6)
