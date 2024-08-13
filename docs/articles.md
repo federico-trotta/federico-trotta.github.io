@@ -103,16 +103,22 @@ Read the articles I wrote fot their blog:
 - [How to make a Slack bot: Python vs. n8n Guide](https://blog.n8n.io/how-to-make-slack-bot/) 
 - [12 workflow automation tools to automate your workflows](https://blog.n8n.io/workflow-automation-tools/)
 - [Getting started with CRM automation: Essential guide & templates included](https://blog.n8n.io/how-to-get-started-with-crm-automation-and-no-code-workflow-ideas/)
+- Top 7 Embedded iPaaS Solutions: Choosing the Right Fit for Your Organization
 
+:::{attention}
+The last article is under the publication process.
+:::
 
 ***
 
 ## My articles for AppSignal
 [AppSignal](https://blog.appsignal.com/) has recently opened its doors to Python articles. Here are the ones I wrote for the blog:
+
 - How to use Lambda Functions in Python
 - How to use Regular Expressions in Python
 - Ways to Optimize Python Code
 - Flask or Django: Which One Best Fits Your Needs?
+- An introduction to Flask-SQLAlchemy
 
 :::{attention}
 The articles are under the publication process.
