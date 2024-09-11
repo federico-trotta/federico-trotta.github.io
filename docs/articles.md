@@ -103,11 +103,7 @@ Read the articles I wrote fot their blog:
 - [How to make a Slack bot: Python vs. n8n Guide](https://blog.n8n.io/how-to-make-slack-bot/) 
 - [12 workflow automation tools to automate your workflows](https://blog.n8n.io/workflow-automation-tools/)
 - [Getting started with CRM automation: Essential guide & templates included](https://blog.n8n.io/how-to-get-started-with-crm-automation-and-no-code-workflow-ideas/)
-- Top 7 Embedded iPaaS Solutions: Choosing the Right Fit for Your Organization
-
-:::{attention}
-The last article is under the publication process.
-:::
+- T[op 7 Embedded iPaaS Solutions: Choosing the Right Fit for Your Organization](https://blog.n8n.io/embedded-ipaas/)
 
 ***
 
