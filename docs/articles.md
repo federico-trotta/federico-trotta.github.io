@@ -3,6 +3,24 @@ This section shows the article I wrote for different online websites.
 
 ***
 
+## Achievements
+Before presenting my articles, I'd like my achievements talk for me. I believe this is a good way for you to understand the quality of my work and the results we can get together:
+- **Selected by NVIDIA**: Given my expertise and the articles I created in the field of Articifial Intelligence, I've been selected by NVIDIA for a pre-briefing where they presented the Polars GPU engine in preview:
+    ```{figure} images/articles/nvidia.png
+    :alt: Email from NVIDIA to Federico Trotta for invitation.
+    :align: center
+
+    *The invitation to the pre-briefing*
+    ```
+
+    And here's the article I wrote for them: [Accelerating Polars with RAPIDS cuDF](https://dev.to/federicotrotta/accelerating-polars-with-rapids-cudf-3833)
+
+- **Spotted by DZONE**: One of my articles on Data Engineering has been featured on the DZone main page on the 14th of June 2024 as a spotlighted article (see it [here](#my-articles-for-dzone))
+
+- **Owner of the documentation chapter for the "The open source book"**: I've been the owner of the chapter abot the documentation for the book "The open source book" ("Il libro open source" in Italian) which is an [italian manual for developers](https://github.com/Il-Libro-Open-Source).
+
+***
+
 ## My articles for Towards Data Science
 With tens of published articles, I started my Technical Writing career by collaborating with the established publication [Towards Data Science](https://towardsdatascience.com/).
 
@@ -103,7 +121,16 @@ Read the articles I wrote fot their blog:
 - [How to make a Slack bot: Python vs. n8n Guide](https://blog.n8n.io/how-to-make-slack-bot/) 
 - [12 workflow automation tools to automate your workflows](https://blog.n8n.io/workflow-automation-tools/)
 - [Getting started with CRM automation: Essential guide & templates included](https://blog.n8n.io/how-to-get-started-with-crm-automation-and-no-code-workflow-ideas/)
-- T[op 7 Embedded iPaaS Solutions: Choosing the Right Fit for Your Organization](https://blog.n8n.io/embedded-ipaas/)
+- [Top 7 Embedded iPaaS Solutions: Choosing the Right Fit for Your Organization](https://blog.n8n.io/embedded-ipaas/)
+
+
+***
+## My articles for Kestra
+[Kestra] is an orchestration tool that simplifies business-critical workflows.
+
+Here are my articles for their blog:
+- [How Orchestration Can Optimize Your Engineering Processes](https://kestra.io/blogs/2024-09-18-what-is-an-orchestrator)
+
 
 ***
 
@@ -146,7 +173,7 @@ I'm having the privilege to co-author the following articles with [Karin Wolok](
 ***
 
 ## My articles for Dev.to
-Dev.to is "A constructive and inclusive social network for software developers".
+[Dev.to](https://dev.to/federicotrotta) is "A constructive and inclusive social network for software developers".
 
 Here's the list of my articles on Dev.to:
 - [Serverless Cost Optimization Three Key Strategies](https://dev.to/federicotrotta/serverless-cost-optimization-three-key-strategies-442f)
