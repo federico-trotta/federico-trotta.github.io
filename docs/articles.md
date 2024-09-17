@@ -170,6 +170,7 @@ I'm having the privilege to co-author the following articles with [Karin Wolok](
 
 *"Exploring The Dynamics of Streaming Databases" on DZone's main page*
 ```
+
 ***
 
 ## My articles for Dev.to
