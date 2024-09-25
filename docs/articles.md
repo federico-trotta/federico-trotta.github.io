@@ -17,6 +17,14 @@ Before presenting my articles, I'd like my achievements talk for me. I believe t
 
 - **Spotted by DZONE**: One of my articles on Data Engineering has been featured on the DZone main page on the 14th of June 2024 as a spotlighted article (see it [here](#my-articles-for-dzone))
 
+- **Recognixed as one of the most read TDS's contributors**: I was recognized as one of the most read authors by Towards Data Science:
+    ```{figure} images/articles/tds.png
+    :alt: Email from Towadards Data Science to Federico Trotta for recognition.
+    :align: center
+
+    *The email from Towards Data Science to Federico Trotta for recognition.*
+    ```
+
 - **Owner of the documentation chapter for the "The open source book"**: I've been the owner of the chapter abot the documentation for the book "The open source book" ("Il libro open source" in Italian) which is an [italian manual for developers](https://github.com/Il-Libro-Open-Source).
 
 ***
