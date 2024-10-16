@@ -145,14 +145,14 @@ Here are my articles for their blog:
 ## My articles for AppSignal
 [AppSignal](https://blog.appsignal.com/) has recently opened its doors to Python articles. Here are the ones I wrote for the blog:
 
-- How to use Lambda Functions in Python
+- [How to use Lambda Functions in Python](https://blog.appsignal.com/2024/10/16/how-to-use-lambda-functions-in-python.html)
 - How to use Regular Expressions in Python
 - Ways to Optimize Python Code
 - Flask or Django: Which One Best Fits Your Needs?
 - An introduction to Flask-SQLAlchemy
 
 :::{attention}
-The articles are under the publication process.
+The articles not linked are under the publication process.
 :::
 
 
