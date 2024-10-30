@@ -140,8 +140,6 @@ Read the articles I wrote fot their blog:
 Here are my articles for their blog:
 - [How Orchestration Can Optimize Your Engineering Processes](https://kestra.io/blogs/2024-09-18-what-is-an-orchestrator)
 - [Kestra vs. Popular CI/CD Tools: When to Choose an Orchestration Solution](https://kestra.io/blogs/2024-10-17-cd-cd-kestra-comparison)
-- [Workflow Orchestration Tools: My Take on Airflow, Kestra and Prefect](https://kestra.io/blogs/2024-10-30-workflow-tools-comparison)
-
 
 ***
 
