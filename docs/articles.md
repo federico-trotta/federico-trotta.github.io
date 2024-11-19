@@ -191,6 +191,7 @@ Here's the list of my articles on Dev.to:
 - [How To Easily Remove a Password From a PDF file](https://dev.to/federicotrotta/how-to-easily-remove-a-password-from-a-pdf-file-158b)
 - [How To Create a Repository in GitHub](https://dev.to/federicotrotta/how-to-create-a-repository-in-github-kd6)
 - [How to calculate RGB values in Python](https://dev.to/federicotrotta/how-to-calculate-rgb-values-in-python-3ph5)
+- [How to Use Proxies in Python](https://dev.to/federicotrotta/how-to-use-a-proxy-in-python-1278)
 
 ***
 
