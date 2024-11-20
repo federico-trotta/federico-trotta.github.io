@@ -196,7 +196,7 @@ Here's the list of my articles on Dev.to:
 ***
 
 ## My articles for Writech:
-[Writech](https://writech.run/)
+[Writech](https://writech.run/) is ani Italian company that provides technical aricles services for top-notch companies:
 - [How to Use Web Scraping for Machine Learning](https://brightdata.com/blog/web-data/web-scraping-for-machine-learning) (ghostwriting)
 
 ***
