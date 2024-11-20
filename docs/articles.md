@@ -195,6 +195,12 @@ Here's the list of my articles on Dev.to:
 
 ***
 
+## My articles for Writech:
+[Writech](https://writech.run/)
+- [How to Use Web Scraping for Machine Learning](https://brightdata.com/blog/web-data/web-scraping-for-machine-learning) (ghostwriting)
+
+***
+
 ## My article for Butler Scientifics
 Here's my contribution to [Butler Scientifics](https://www.butlerscientifics.com/), a Spanish firm developing AutoDiscovery, a software that automates the discovery phase when analyzing data:
 - [Unlock the Power of Automation: Why Automating Data Exploration is Essential for Your Efficiency](https://www.butlerscientifics.com/single-post/unlock-the-power-of-automation-why-automating-data-exploration-is-essential-for-your-efficiency)
