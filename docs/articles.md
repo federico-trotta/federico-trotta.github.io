@@ -195,8 +195,29 @@ Here's the list of my articles on Dev.to:
 
 ***
 
+## My articles for Zencoder
+[Zencoder](https://zencoder.ai/) is an AI coding agent platform that empowers developers to ship products faster.
+
+Here's the list of my articles on Zencoder's blog:
+- [How to Use AI Code Generators to Automate Python Script Creation](https://zencoder.ai/blog/ai-python-script-automation)
+- [How to Create an API in Python](https://zencoder.ai/blog/create-api-in-python)
+- [How to Build a GUI in Python](https://zencoder.ai/blog/build-gui-in-python)
+- [How to Make a Random Number Generator in Python](https://zencoder.ai/blog/python-random-number-generator)
+- [How to Create a Password Generator in Python](https://zencoder.ai/blog/python-secure-password-generator)
+- [Challenges in Training Context-Aware AI Coding Agents](https://zencoder.ai/blog/context-aware-ai-coding-challenges)
+- [Essential Python Snippets for Web Development with Flask](https://zencoder.ai/blog/python-flask-web-development-snippets)
+- [Python Snippets for Working with Databases: SQLite and SQLAlchemy](https://zencoder.ai/blog/python-database-sqlite-sqlalchemy-snippets)
+- [Must-Know Python Snippets for File and Directory Management](https://zencoder.ai/blog/python-file-directory-code-snippets)
+- [Debugging in Python: 6 Snippets to Make Your Life Easier](https://zencoder.ai/blog/python-debugging-tips-code-snippets)
+- [Python One-Liners: 7 Snippets to Simplify Your Code](https://zencoder.ai/blog/python-one-liners-code-snippets)
+- [Mastering Python Data Analysis Techniques](https://zencoder.ai/blog/python-data-manipulation-code-snippets)
+- [Transform Legacy Python Code with Cutting-Edge AI Tools](https://zencoder.ai/blog/ai-help-legacy-python-code)
+
+
 ## My articles for Writech:
-[Writech](https://writech.run/) is ani Italian company that provides technical aricles services for top-notch companies:
+[Writech](https://writech.run/) is ani Italian company that provides technical aricles services for top-notch companies.
+
+Here's the list of my articles I wrote for Writech:
 - [How to Use Web Scraping for Machine Learning](https://brightdata.com/blog/web-data/web-scraping-for-machine-learning) (ghostwriting)
 
 ***
