@@ -214,7 +214,7 @@ Here's the list of my articles on Zencoder's blog:
 - [Transform Legacy Python Code with Cutting-Edge AI Tools](https://zencoder.ai/blog/ai-help-legacy-python-code)
 
 
-## My articles for Writech:
+## My articles for Writech
 [Writech](https://writech.run/) is ani Italian company that provides technical aricles services for top-notch companies.
 
 Here's the list of my articles I wrote for Writech:
