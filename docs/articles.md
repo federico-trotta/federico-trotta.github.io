@@ -130,6 +130,7 @@ Read the articles I wrote fot their blog:
 - [12 workflow automation tools to automate your workflows](https://blog.n8n.io/workflow-automation-tools/)
 - [Getting started with CRM automation: Essential guide & templates included](https://blog.n8n.io/how-to-get-started-with-crm-automation-and-no-code-workflow-ideas/)
 - [Top 7 Embedded iPaaS Solutions: Choosing the Right Fit for Your Organization](https://blog.n8n.io/embedded-ipaas/)
+- [Top 8 open-source Zapier alternatives for workflow automation](https://blog.n8n.io/open-source-zapier/)
 
 
 ***
