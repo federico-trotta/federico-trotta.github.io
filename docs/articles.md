@@ -237,8 +237,10 @@ Read them [here](https://planetachatbot.com/author/federico-trotta/).
 ***
 
 ## My article for business.com
-I'had the privilege to help business.com refactor an article about webscraping with Powershell. Read it here:
+I'had the privilege to help business.com refactor an article about web scraping with Powershell by provide insights on my experience. Read it here:
 - [How to Create a Web Scraping Tool in PowerShell](https://www.business.com/articles/create-web-scraping-tool-in-powershell/)
+
+***
 
 ## Repurposed articles from KdNuggets
 [KDnuggets](https://www.kdnuggets.com/) repurposed some of the articles I wrote for Towards Data Science: read them [here](https://www.kdnuggets.com/author/federico-trotta).
