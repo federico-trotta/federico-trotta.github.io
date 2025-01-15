@@ -155,7 +155,7 @@ Here are my articles for their blog:
 [AppSignal](https://blog.appsignal.com/) has recently opened its doors to Python articles. Here are the ones I wrote for the blog:
 
 - [How to use Lambda Functions in Python](https://blog.appsignal.com/2024/10/16/how-to-use-lambda-functions-in-python.html)
-- How to use Regular Expressions in Python
+- [How to use Regular Expressions in Python](https://blog.appsignal.com/2025/01/15/how-to-use-regular-expressions-in-python.html)
 - Ways to Optimize Python Code
 - Flask or Django: Which One Best Fits Your Needs?
 - An introduction to Flask-SQLAlchemy
