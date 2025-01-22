@@ -79,6 +79,7 @@ Here's the list of my best articles:
 ## My articles for Bright Data
 Bright Data is a leading company in the field of web scraping. Here are the articles I wrote for their blog:
 - [How to Bypass CAPTCHAs With Puppeteer](https://brightdata.com/blog/web-data/bypass-captchas-with-puppeteer)
+- [Web Scraping With Jupyter Notebooks](https://brightdata.com/blog/web-data/web-scraping-with-jupyter-notebooks)
 
 ***
 
