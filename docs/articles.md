@@ -140,6 +140,7 @@ Read the articles I wrote fot their blog:
 - [Getting started with CRM automation: Essential guide & templates included](https://blog.n8n.io/how-to-get-started-with-crm-automation-and-no-code-workflow-ideas/)
 - [Top 7 Embedded iPaaS Solutions: Choosing the Right Fit for Your Organization](https://blog.n8n.io/embedded-ipaas/)
 - [Top 8 open-source Zapier alternatives for workflow automation](https://blog.n8n.io/open-source-zapier/)
+- [The 20 best LLMs for coding (+ free workflow templates)](https://blog.n8n.io/best-llm-for-coding/)
 
 
 ***
