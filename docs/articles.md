@@ -160,6 +160,15 @@ Here are my articles for their blog:
 
 - [How to use Lambda Functions in Python](https://blog.appsignal.com/2024/10/16/how-to-use-lambda-functions-in-python.html)
 - [How to use Regular Expressions in Python](https://blog.appsignal.com/2025/01/15/how-to-use-regular-expressions-in-python.html)
+
+:::{important}
+"How to use Regular Expressions in Python" has been also featured and mentioned by [pip trends](https://www.linkedin.com/feed/update/activity:7295125939963736064/?trk=viral_mention) on LinkedIn.
+:::
+
+```{figure} images/pip_trends.png
+:alt: "How to use Regular Expressions in Python" by Federico Trotta mentioned by pip trends.
+:align: center
+
 - Ways to Optimize Python Code
 - Flask or Django: Which One Best Fits Your Needs?
 - An introduction to Flask-SQLAlchemy
@@ -185,7 +194,7 @@ I'm having the privilege to co-author the following articles with [Karin Wolok](
 "Exploring The Dynamics of Streaming Databases" has been also featured on the DZone main page on the 14th of June 2024 as a spotlighted article.
 :::
 
-```{figure} images/articles/DZone-spotlight.png
+```{figure} images/articles/DZone_spotlight.png
 :alt: "Exploring The Dynamics of Streaming Databases" by Federico Trotta on DZone's main page.
 :align: center
 
