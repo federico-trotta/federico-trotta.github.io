@@ -162,12 +162,15 @@ Here are my articles for their blog:
 - [How to use Regular Expressions in Python](https://blog.appsignal.com/2025/01/15/how-to-use-regular-expressions-in-python.html)
 
 :::{important}
-"How to use Regular Expressions in Python" has been also featured and mentioned by [pip trends](https://www.linkedin.com/feed/update/activity:7295125939963736064/?trk=viral_mention) on LinkedIn.
+"“How to use Regular Expressions in Python” has been also featured and mentioned by [pip trends](https://www.linkedin.com/feed/update/activity:7295125939963736064/?trk=viral_mention) on LinkedIn.
 :::
 
-```{figure} images/pip_trends.png
+```{figure} images/articles/pip_trends.png
 :alt: "How to use Regular Expressions in Python" by Federico Trotta mentioned by pip trends.
 :align: center
+
+*"Exploring The Dynamics of Streaming Databases" on DZone's main page*
+```
 
 - Ways to Optimize Python Code
 - Flask or Django: Which One Best Fits Your Needs?
@@ -181,7 +184,7 @@ The articles not linked are under the publication process.
 ***
 
 ## My articles for DZone
-I'm having the privilege to co-author the following articles with [Karin Wolok](https://www.projectelevate.io/):
+I had the privilege to co-author the following articles with [Karin Wolok](https://www.projectelevate.io/):
 - [An Introduction to Stream Processing](https://dzone.com/articles/an-introduction-to-stream-processing)
 - [Choosing The Right Stream Processing System: A Comprehensive Guide](https://dzone.com/articles/choosing-the-right-stream-processing-system)
 - [Exploring The Dynamics of Streaming Databases](https://dzone.com/articles/exploring-the-dynamics-of-streaming-databases)
