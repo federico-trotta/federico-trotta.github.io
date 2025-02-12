@@ -169,7 +169,7 @@ Here are my articles for their blog:
 :alt: "How to use Regular Expressions in Python" by Federico Trotta mentioned by pip trends.
 :align: center
 
-*"Exploring The Dynamics of Streaming Databases" on DZone's main page*
+*"How to use Regular Expressions in Python" mentioned by pip trends*
 ```
 
 - Ways to Optimize Python Code
