@@ -82,6 +82,7 @@ Bright Data is a leading company in the field of web scraping. Here are the arti
 - [Web Scraping With Jupyter Notebooks](https://brightdata.com/blog/web-data/web-scraping-with-jupyter-notebooks)
 - [Web Scraping With Selenium Wire in Python](https://brightdata.com/blog/web-data/web-scraping-with-selenium-wire)
 - [Scrapy vs. Requests: Which One Is Better For Web Scraping?](https://brightdata.com/blog/web-data/scrapy-vs-requests)
+- [Scrapy vs Pyspider: Which One Is Better for Web Scraping?](https://brightdata.com/blog/web-data/scrapy-vs-pyspider)
 
 ***
 
