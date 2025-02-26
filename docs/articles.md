@@ -172,10 +172,7 @@ Here are my articles for their blog:
 
 *"How to use Regular Expressions in Python" mentioned by pip trends*
 ```
-
-- Ways to Optimize Python Code
-- Flask or Django: Which One Best Fits Your Needs?
-- An introduction to Flask-SQLAlchemy
+- [An Introduction to Flask-SQLAlchemy in Python](https://blog.appsignal.com/2025/02/26/an-introduction-to-flask-sqlalchemy-in-python.html)
 
 :::{attention}
 The articles not linked are under the publication process.
