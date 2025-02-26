@@ -175,10 +175,6 @@ Here are my articles for their blog:
 ```
 - [An Introduction to Flask-SQLAlchemy in Python](https://blog.appsignal.com/2025/02/26/an-introduction-to-flask-sqlalchemy-in-python.html)
 
-:::{attention}
-The articles not linked are under the publication process.
-:::
-
 
 ***
 
