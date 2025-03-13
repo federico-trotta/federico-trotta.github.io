@@ -84,6 +84,7 @@ Bright Data is a leading company in the field of web scraping. Here are the arti
 - [Scrapy vs. Requests: Which One Is Better For Web Scraping?](https://brightdata.com/blog/web-data/scrapy-vs-requests)
 - [Scrapy vs Pyspider: Which One Is Better for Web Scraping?](https://brightdata.com/blog/web-data/scrapy-vs-pyspider)
 - [How to Rotate Proxies in Python](https://brightdata.com/blog/proxy-101/rotate-proxies-in-python)
+- [A Guide to Data Analysis With Python in 2025](https://brightdata.com/blog/web-data/analysis-with-python)
 
 ***
 
