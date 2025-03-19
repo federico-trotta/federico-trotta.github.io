@@ -86,6 +86,7 @@ Bright Data is a leading company in the field of web scraping. Here are the arti
 - [How to Rotate Proxies in Python](https://brightdata.com/blog/proxy-101/rotate-proxies-in-python)
 - [A Guide to Data Analysis With Python in 2025](https://brightdata.com/blog/web-data/analysis-with-python)
 - [Web Scraping With Parsel in Python: 2025 Guide](https://brightdata.com/blog/web-data/web-scraping-with-parasel)
+- [Web Scraping With Scrapy Splash: Step-By-Step Guide](https://brightdata.com/blog/web-data/web-scraping-with-scrapy-splash)
 
 ***
 
