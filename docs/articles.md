@@ -147,6 +147,7 @@ Read the articles I wrote fot their blog:
 - [Top 7 Embedded iPaaS Solutions: Choosing the Right Fit for Your Organization](https://blog.n8n.io/embedded-ipaas/)
 - [Top 8 open-source Zapier alternatives for workflow automation](https://blog.n8n.io/open-source-zapier/)
 - [The 20 best LLMs for coding (+ free workflow templates)](https://blog.n8n.io/best-llm-for-coding/)
+- [15 Practical AI Agent Examples to Scale Your Business in 2025](https://blog.n8n.io/ai-agents-examples/)
 
 
 ***
