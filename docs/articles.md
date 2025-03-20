@@ -87,6 +87,7 @@ Bright Data is a leading company in the field of web scraping. Here are the arti
 - [A Guide to Data Analysis With Python in 2025](https://brightdata.com/blog/web-data/analysis-with-python)
 - [Web Scraping With Parsel in Python: 2025 Guide](https://brightdata.com/blog/web-data/web-scraping-with-parasel)
 - [Web Scraping With Scrapy Splash: Step-By-Step Guide](https://brightdata.com/blog/web-data/web-scraping-with-scrapy-splash)
+- [How to Use Web Scraping for Machine Learning](https://brightdata.com/blog/web-data/web-scraping-for-machine-learning)
 
 ***
 
@@ -235,13 +236,6 @@ Here's the list of my articles on Zencoder's blog:
 - [Python One-Liners: 7 Snippets to Simplify Your Code](https://zencoder.ai/blog/python-one-liners-code-snippets)
 - [Mastering Python Data Analysis Techniques](https://zencoder.ai/blog/python-data-manipulation-code-snippets)
 - [Transform Legacy Python Code with Cutting-Edge AI Tools](https://zencoder.ai/blog/ai-help-legacy-python-code)
-
-
-## My articles for Writech
-[Writech](https://writech.run/) is ani Italian company that provides technical aricles services for top-notch companies.
-
-Here's the list of my articles I wrote for Writech:
-- [How to Use Web Scraping for Machine Learning](https://brightdata.com/blog/web-data/web-scraping-for-machine-learning) (ghostwriting)
 
 ***
 
