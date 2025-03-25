@@ -135,6 +135,7 @@ Read the articles I wrote for their blog:
 - [Unlocking Efficiency: 3 AI Tools for Automatic Software Documentation](https://semaphoreci.com/blog/ai-tools-software-documentation)
 - [Keeping Self-Hosted LLM Costs Down: Best Practices and Tips](https://semaphoreci.com/blog/llm-cost)
 - [Unit Testing vs. Integration Testing: Test Automation Basics](https://semaphoreci.com/blog/unit-testing-vs-integration-testing)
+- [The Best AI Coding Assistants For 2025](https://semaphore.io/blog/ai-coding-assistants)
 
 ***
 
