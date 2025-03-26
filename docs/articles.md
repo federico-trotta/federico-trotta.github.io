@@ -106,14 +106,14 @@ Read my articles:
 - [15 Practical AI Agent Examples to Scale Your Business in 2025](https://blog.n8n.io/ai-agents-examples/)
 
 :::{important}
-“15 Practical AI Agent Examples to Scale Your Business in 2025” has ranked in the first page in Google.
+“The 20 best LLMs for coding (+ free workflow templates) has ranked in the first page in Google.
 :::
 
 ```{figure} images/articles/best_llms_for_coding.png
-:alt: "15 Practical AI Agent Examples to Scale Your Business in 2025" by Federico Trotta .
+:alt: "The 20 best LLMs for coding (+ free workflow templates)" by Federico Trotta .
 :align: center
 
-*"15 Practical AI Agent Examples to Scale Your Business in 2025" in Google's first page*
+*"The 20 best LLMs for coding (+ free workflow templates)" in Google's first page*
 ```
 
 ***
