@@ -77,7 +77,9 @@ Here's the list of my best articles:
 ***
 
 ## My articles for Bright Data
-Bright Data is a leading company in the field of web scraping. Here are the articles I wrote for their blog:
+Bright Data is a leading company in the field of web scraping. 
+
+Read my articles:
 - [How to Bypass CAPTCHAs With Puppeteer](https://brightdata.com/blog/web-data/bypass-captchas-with-puppeteer)
 - [Web Scraping With Jupyter Notebooks](https://brightdata.com/blog/web-data/web-scraping-with-jupyter-notebooks)
 - [Web Scraping With Selenium Wire in Python](https://brightdata.com/blog/web-data/web-scraping-with-selenium-wire)
@@ -91,16 +93,31 @@ Bright Data is a leading company in the field of web scraping. Here are the arti
 
 ***
 
-## My articles for Stack Abuse
-[Stack Abuse](https://stackabuse.com/) is a firm that helps developers through programming tutorials and courses.
+## My articles for n8n
+[N8n](https://n8n.io/) is a low-code automation tool that helps developers save time by creating stunning automations.
 
-I wrote the following articles:
-- [Python Dictionary Comprehension: A Fast and Flexible Way to Build Dictionaries](https://stackabuse.com/python-dictionary-comprehension-a-fast-and-flexible-way-to-build-dictionaries/)
-- [The Power of Indexing: Boosting Data Wrangling Efficiency with Pandas](https://stackabuse.com/the-power-of-indexing-boosting-data-wrangling-efficiency-with-pandas/)
-- [Data Integrity: How OrderedDict Preserves Key Order in Python](https://stackabuse.com/data-integrity-how-ordereddict-preserves-key-order-in-python/)
-- [Finding Numbers in Various Data Types in Python](https://stackabuse.com/finding-numbers-in-various-data-types-in-python/)
+Read my articles:
+- [How to make a Slack bot: Python vs. n8n Guide](https://blog.n8n.io/how-to-make-slack-bot/) 
+- [12 workflow automation tools to automate your workflows](https://blog.n8n.io/workflow-automation-tools/)
+- [Getting started with CRM automation: Essential guide & templates included](https://blog.n8n.io/how-to-get-started-with-crm-automation-and-no-code-workflow-ideas/)
+- [Top 7 Embedded iPaaS Solutions: Choosing the Right Fit for Your Organization](https://blog.n8n.io/embedded-ipaas/)
+- [Top 8 open-source Zapier alternatives for workflow automation](https://blog.n8n.io/open-source-zapier/)
+- [The 20 best LLMs for coding (+ free workflow templates)](https://blog.n8n.io/best-llm-for-coding/)
+- [15 Practical AI Agent Examples to Scale Your Business in 2025](https://blog.n8n.io/ai-agents-examples/)
+
+:::{important}
+“15 Practical AI Agent Examples to Scale Your Business in 2025” has ranked in the first page in Google.
+:::
+
+```{figure} images/articles/best_llms_for_coding.png
+:alt: "15 Practical AI Agent Examples to Scale Your Business in 2025" by Federico Trotta .
+:align: center
+
+*"15 Practical AI Agent Examples to Scale Your Business in 2025" in Google's first page*
+```
 
 ***
+
 
 ## My articles for Codemotion
 [Codemotion](https://www.codemotion.com/) is an Italian firm that helps developers grow.
@@ -129,7 +146,7 @@ I contributed to writing an article on a study made by Istituto Poligrafico Zecc
 ## My articles for Semaphore CI
 [Semaphore](https://semaphoreci.com/) helps technology companies achieve better results.
 
-Read the articles I wrote for their blog:
+Read my articles:
 - [How to Handle Imbalanced Data for Machine Learning in Python](https://semaphoreci.com/blog/imbalanced-data-machine-learning-python)
 - [Flaky Tests in Machine Learning: Challenges and Countermeasures](https://semaphoreci.com/blog/flaky-tests-machine-learning)
 - [Unlocking Efficiency: 3 AI Tools for Automatic Software Documentation](https://semaphoreci.com/blog/ai-tools-software-documentation)
@@ -139,43 +156,38 @@ Read the articles I wrote for their blog:
 
 ***
 
-## My articles for n8n
-[N8n](https://n8n.io/) is a low-code automation tool that helps developers save time by creating stunning automations.
+## My articles for Stack Abuse
+[Stack Abuse](https://stackabuse.com/) is a firm that helps developers through programming tutorials and courses.
 
-Read the articles I wrote fot their blog:
-- [How to make a Slack bot: Python vs. n8n Guide](https://blog.n8n.io/how-to-make-slack-bot/) 
-- [12 workflow automation tools to automate your workflows](https://blog.n8n.io/workflow-automation-tools/)
-- [Getting started with CRM automation: Essential guide & templates included](https://blog.n8n.io/how-to-get-started-with-crm-automation-and-no-code-workflow-ideas/)
-- [Top 7 Embedded iPaaS Solutions: Choosing the Right Fit for Your Organization](https://blog.n8n.io/embedded-ipaas/)
-- [Top 8 open-source Zapier alternatives for workflow automation](https://blog.n8n.io/open-source-zapier/)
-- [The 20 best LLMs for coding (+ free workflow templates)](https://blog.n8n.io/best-llm-for-coding/)
-- [15 Practical AI Agent Examples to Scale Your Business in 2025](https://blog.n8n.io/ai-agents-examples/)
+Read my articles:
+- [Python Dictionary Comprehension: A Fast and Flexible Way to Build Dictionaries](https://stackabuse.com/python-dictionary-comprehension-a-fast-and-flexible-way-to-build-dictionaries/)
+- [The Power of Indexing: Boosting Data Wrangling Efficiency with Pandas](https://stackabuse.com/the-power-of-indexing-boosting-data-wrangling-efficiency-with-pandas/)
+- [Data Integrity: How OrderedDict Preserves Key Order in Python](https://stackabuse.com/data-integrity-how-ordereddict-preserves-key-order-in-python/)
+- [Finding Numbers in Various Data Types in Python](https://stackabuse.com/finding-numbers-in-various-data-types-in-python/)
 
-:::{important}
-“15 Practical AI Agent Examples to Scale Your Business in 2025” has ranked in the first page in Google.
-:::
+***
 
-```{figure} images/articles/best_llms_for_coding.png
-:alt: "15 Practical AI Agent Examples to Scale Your Business in 2025" by Federico Trotta .
-:align: center
+## My articles for Bacalhau
+[Bacalhau](https://www.bacalhau.org/) is a platform for fast, cost efficient, and secure computation that enables users to run compute jobs where the data is generated and stored.
 
-*"15 Practical AI Agent Examples to Scale Your Business in 2025" in Google's first page*
-```
+Read my articles:
+- [Bacalhau v1.7.0 - Day 2: Scaling Your Compute Jobs with Bacalhau Partitioned Jobs](https://blog.bacalhau.org/p/bacalhau-v170-day-2-scaling-your)
 
 ***
 
 ## My articles for Kestra
 [Kestra](https://kestra.io) is an orchestration tool that simplifies business-critical workflows.
 
-Here are my articles for their blog:
+Read my articles:
 - [How Orchestration Can Optimize Your Engineering Processes](https://kestra.io/blogs/2024-09-18-what-is-an-orchestrator)
 - [Kestra vs. Popular CI/CD Tools: When to Choose an Orchestration Solution](https://kestra.io/blogs/2024-10-17-cd-cd-kestra-comparison)
 
 ***
 
 ## My articles for AppSignal
-[AppSignal](https://blog.appsignal.com/) has recently opened its doors to Python articles. Here are the ones I wrote for the blog:
+[AppSignal](https://blog.appsignal.com/) has recently opened its doors to Python articles. 
 
+Read my articles:
 - [How to use Lambda Functions in Python](https://blog.appsignal.com/2024/10/16/how-to-use-lambda-functions-in-python.html)
 - [How to use Regular Expressions in Python](https://blog.appsignal.com/2025/01/15/how-to-use-regular-expressions-in-python.html)
 
@@ -220,7 +232,7 @@ I had the privilege to co-author the following articles with [Karin Wolok](https
 ## My articles for Dev.to
 [Dev.to](https://dev.to/federicotrotta) is "A constructive and inclusive social network for software developers".
 
-Here's the list of my articles on Dev.to:
+Read my articles:
 - [Serverless Cost Optimization Three Key Strategies](https://dev.to/federicotrotta/serverless-cost-optimization-three-key-strategies-442f)
 - [Pandas reset_index(): How To Reset Indexes in Pandas](https://dev.to/federicotrotta/pandas-resetindex-how-to-reset-indexes-in-pandas-475b)
 - [How To Easily Remove a Password From a PDF file](https://dev.to/federicotrotta/how-to-easily-remove-a-password-from-a-pdf-file-158b)
@@ -233,7 +245,7 @@ Here's the list of my articles on Dev.to:
 ## My articles for Zencoder
 [Zencoder](https://zencoder.ai/) is an AI coding agent platform that empowers developers to ship products faster.
 
-Here's the list of my articles on Zencoder's blog:
+Read my articles:
 - [How to Use AI Code Generators to Automate Python Script Creation](https://zencoder.ai/blog/ai-python-script-automation)
 - [How to Create an API in Python](https://zencoder.ai/blog/create-api-in-python)
 - [How to Build a GUI in Python](https://zencoder.ai/blog/build-gui-in-python)
