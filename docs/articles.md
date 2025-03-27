@@ -90,6 +90,7 @@ Read my articles:
 - [Web Scraping With Parsel in Python: 2025 Guide](https://brightdata.com/blog/web-data/web-scraping-with-parasel)
 - [Web Scraping With Scrapy Splash: Step-By-Step Guide](https://brightdata.com/blog/web-data/web-scraping-with-scrapy-splash)
 - [How to Use Web Scraping for Machine Learning](https://brightdata.com/blog/web-data/web-scraping-for-machine-learning)
+- [The 5 Best CAPTCHA Proxies of 2025](https://brightdata.com/blog/proxy-101/best-captcha-proxies)
 
 ***
 
