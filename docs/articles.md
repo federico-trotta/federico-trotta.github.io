@@ -192,7 +192,6 @@ Read my articles:
 Read my articles:
 - [How to use Lambda Functions in Python](https://blog.appsignal.com/2024/10/16/how-to-use-lambda-functions-in-python.html)
 - [How to use Regular Expressions in Python](https://blog.appsignal.com/2025/01/15/how-to-use-regular-expressions-in-python.html)
-- [An Introduction to Testing in Python Flask](https://blog.appsignal.com/2025/04/02/an-introduction-to-testing-in-python-flask.html)
 
 :::{important}
 "“How to use Regular Expressions in Python” has been also featured and mentioned by [pip trends](https://www.linkedin.com/feed/update/activity:7295125939963736064/?trk=viral_mention) on LinkedIn.
@@ -205,7 +204,7 @@ Read my articles:
 *"How to use Regular Expressions in Python" mentioned by pip trends*
 ```
 - [An Introduction to Flask-SQLAlchemy in Python](https://blog.appsignal.com/2025/02/26/an-introduction-to-flask-sqlalchemy-in-python.html)
-
+- [An Introduction to Testing in Python Flask](https://blog.appsignal.com/2025/04/02/an-introduction-to-testing-in-python-flask.html)
 
 ***
 
