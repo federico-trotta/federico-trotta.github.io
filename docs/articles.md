@@ -94,6 +94,14 @@ Read my articles:
 
 ***
 
+## My articles for FloppyData
+[FloppyData](https://floppydata.com/) is a proxy provider.
+
+Read my articles:
+- [Types of Proxies: Which One Is Best?](https://floppydata.com/blog/types-of-proxies-which-one-is-best/)
+
+***
+
 ## My articles for n8n
 [N8n](https://n8n.io/) is a low-code automation tool that helps developers save time by creating stunning automations.
 
