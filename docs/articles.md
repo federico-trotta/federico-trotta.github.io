@@ -183,7 +183,9 @@ Read my articles:
 Read my articles:
 - [Bacalhau v1.7.0 - Day 2: Scaling Your Compute Jobs with Bacalhau Partitioned Jobs](https://blog.bacalhau.org/p/bacalhau-v170-day-2-scaling-your)
 - [Bacalhau v1.7.0 - Day 4: Using AWS S3 Partitioning With Bacalhau](https://blog.bacalhau.org/p/bacalhau-v170-day-4-using-aws-s3)
-- [Kubernetes vs Nomad vs Bacalhau: Which Orchestrator is Right for Your Data?](https://www.expanso.io/kubernetes-vs-nomad-vs-bacalhau)
+- Kubernetes vs Nomad vs Bacalhau: Which Orchestrator is Right for Your Data?:
+    - [Website version](https://www.expanso.io/kubernetes-vs-nomad-vs-bacalhau)
+    - [Newsletter version](https://blog.bacalhau.org/p/k8s-vs-nomad-vs-bacalhau-choosing)
 
 ***
 
