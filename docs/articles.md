@@ -209,7 +209,7 @@ Read my articles:
 "“How to use Regular Expressions in Python” has been also featured and mentioned by [pip trends](https://www.linkedin.com/feed/update/activity:7295125939963736064/?trk=viral_mention) on LinkedIn.
 :::
 
-```{figure} images/articles/pip_trends.png
+```{figure} images/articles/pip_trends_regular_expressions.png
 :alt: "How to use Regular Expressions in Python" by Federico Trotta mentioned by pip trends.
 :align: center
 
@@ -217,6 +217,17 @@ Read my articles:
 ```
 - [An Introduction to Flask-SQLAlchemy in Python](https://blog.appsignal.com/2025/02/26/an-introduction-to-flask-sqlalchemy-in-python.html)
 - [An Introduction to Testing in Python Flask](https://blog.appsignal.com/2025/04/02/an-introduction-to-testing-in-python-flask.html)
+
+:::{important}
+"“An Introduction to Testing in Python Flask” has been also featured and mentioned by [pip trends](https://www.linkedin.com/posts/pip-trends_an-introduction-to-testing-in-python-flask-activity-7321374906854645760-DNuc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkQex8BI3RNrqnOe_3FQSORgphWYeoO-R4) on LinkedIn.
+:::
+
+```{figure} images/articles/pip_trends_testing.png
+:alt: "An Introduction to Testing in Python Flask" by Federico Trotta mentioned by pip trends.
+:align: center
+
+*"An Introduction to Testing in Python Flask" mentioned by pip trends*
+```
 
 ***
 
@@ -253,26 +264,6 @@ Read my articles:
 - [How To Create a Repository in GitHub](https://dev.to/federicotrotta/how-to-create-a-repository-in-github-kd6)
 - [How to calculate RGB values in Python](https://dev.to/federicotrotta/how-to-calculate-rgb-values-in-python-3ph5)
 - [How to Use Proxies in Python](https://dev.to/federicotrotta/how-to-use-a-proxy-in-python-1278)
-
-***
-
-## My articles for Zencoder
-[Zencoder](https://zencoder.ai/) is an AI coding agent platform that empowers developers to ship products faster.
-
-Read my articles:
-- [How to Use AI Code Generators to Automate Python Script Creation](https://zencoder.ai/blog/ai-python-script-automation)
-- [How to Create an API in Python](https://zencoder.ai/blog/create-api-in-python)
-- [How to Build a GUI in Python](https://zencoder.ai/blog/build-gui-in-python)
-- [How to Make a Random Number Generator in Python](https://zencoder.ai/blog/python-random-number-generator)
-- [How to Create a Password Generator in Python](https://zencoder.ai/blog/python-secure-password-generator)
-- [Challenges in Training Context-Aware AI Coding Agents](https://zencoder.ai/blog/context-aware-ai-coding-challenges)
-- [Essential Python Snippets for Web Development with Flask](https://zencoder.ai/blog/python-flask-web-development-snippets)
-- [Python Snippets for Working with Databases: SQLite and SQLAlchemy](https://zencoder.ai/blog/python-database-sqlite-sqlalchemy-snippets)
-- [Must-Know Python Snippets for File and Directory Management](https://zencoder.ai/blog/python-file-directory-code-snippets)
-- [Debugging in Python: 6 Snippets to Make Your Life Easier](https://zencoder.ai/blog/python-debugging-tips-code-snippets)
-- [Python One-Liners: 7 Snippets to Simplify Your Code](https://zencoder.ai/blog/python-one-liners-code-snippets)
-- [Mastering Python Data Analysis Techniques](https://zencoder.ai/blog/python-data-manipulation-code-snippets)
-- [Transform Legacy Python Code with Cutting-Edge AI Tools](https://zencoder.ai/blog/ai-help-legacy-python-code)
 
 ***
 
