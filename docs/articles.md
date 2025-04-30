@@ -163,6 +163,7 @@ Read my articles:
 - [Keeping Self-Hosted LLM Costs Down: Best Practices and Tips](https://semaphoreci.com/blog/llm-cost)
 - [Unit Testing vs. Integration Testing: Test Automation Basics](https://semaphoreci.com/blog/unit-testing-vs-integration-testing)
 - [The Best AI Coding Assistants For 2025](https://semaphore.io/blog/ai-coding-assistants)
+- [How to Use AI to Reduce Technical Debt](https://semaphore.io/blog/ai-technical-debt)
 
 ***
 
