@@ -229,6 +229,8 @@ Read my articles:
 *"An Introduction to Testing in Python Flask" mentioned by pip trends*
 ```
 
+- [Using JWTs in Python Flask REST Framework](https://blog.appsignal.com/2025/04/30/using-jwts-in-python-flask-rest-framework.html)
+
 ***
 
 ## My articles for DZone
