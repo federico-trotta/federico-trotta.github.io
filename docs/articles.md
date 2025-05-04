@@ -94,6 +94,14 @@ Read my articles:
 
 ***
 
+## My articles for The Web Scraping Club
+[The Web Scraping Club](https://substack.thewebscraping.club/) is a weekly Substack about web scraping, with news, examples, tutorials and code from [Pierluigi Vinciguerra](https://www.linkedin.com/in/pierluigivinciguerra/).
+
+Read my articles:
+- [Optimizing Python Scripts for High-Traffic Websites](https://substack.thewebscraping.club/p/scraping-high-frequency-python)
+
+***
+
 ## My articles for FloppyData
 [FloppyData](https://floppydata.com/) is a proxy provider.
 
