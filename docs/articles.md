@@ -108,6 +108,7 @@ Read my articles:
 Read my articles:
 - [Types of Proxies: Which One Is Best?](https://floppydata.com/blog/types-of-proxies-which-one-is-best/)
 - [What Are Mobile Proxies? How Do They Work & How to Use Them?](https://floppydata.com/blog/what-are-mobile-proxies-how-do-they-work-how-to-use-them/)
+- [Setting Up FloppyData Proxy With Selenium in Python](https://floppydata.com/blog/setting-up-floppydata-proxy-with-selenium-in-python/)
 
 ***
 
