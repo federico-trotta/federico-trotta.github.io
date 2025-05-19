@@ -77,7 +77,7 @@ Here's the list of my best articles:
 ***
 
 ## My articles for Bright Data
-Bright Data is a leading company in the field of web scraping. 
+[Bright Data](https://brightdata.com/) is a leading company in the field of web scraping. 
 
 Read my articles:
 - [How to Bypass CAPTCHAs With Puppeteer](https://brightdata.com/blog/web-data/bypass-captchas-with-puppeteer)
@@ -101,6 +101,7 @@ Read my articles:
 
 Read my articles:
 - [Optimizing Python Scripts for High-Traffic Websites](https://substack.thewebscraping.club/p/scraping-high-frequency-python)
+- [The Framework That Won't Quit: Scrapy's Continued Relevance in Data Extraction](https://substack.thewebscraping.club/p/scrapy-ten-years-of-scraping-framework)
 
 ***
 
@@ -198,6 +199,7 @@ Read my articles:
 - Kubernetes vs Nomad vs Bacalhau: Which Orchestrator is Right for Your Data?:
     - [Website version](https://www.expanso.io/kubernetes-vs-nomad-vs-bacalhau)
     - [Newsletter version](https://blog.bacalhau.org/p/k8s-vs-nomad-vs-bacalhau-choosing)
+- [Your Fast Track to Bacalhau: Local Development via Docker-in-Docker](https://blog.bacalhau.org/p/your-fast-track-to-bacalhau-local)
 
 ***
 
