@@ -93,6 +93,7 @@ Read my articles:
 - [The 5 Best CAPTCHA Proxies of 2025](https://brightdata.com/blog/proxy-101/best-captcha-proxies)
 - [What Is Supervised Fine-Tuning in LLMs?](https://brightdata.com/blog/ai/supervised-fine-tuning)
 - [What Is Zero-Shot Classification?](https://brightdata.com/blog/ai/zero-shot-classification)
+- [Web Scraping With Botright: 2025 Guide](https://brightdata.com/blog/web-data/web-scraping-with-botright)
 
 ***
 
