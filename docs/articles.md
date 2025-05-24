@@ -201,6 +201,7 @@ Read my articles:
     - [Website version](https://www.expanso.io/kubernetes-vs-nomad-vs-bacalhau)
     - [Newsletter version](https://blog.bacalhau.org/p/k8s-vs-nomad-vs-bacalhau-choosing)
 - [Your Fast Track to Bacalhau: Local Development via Docker-in-Docker](https://blog.bacalhau.org/p/your-fast-track-to-bacalhau-local)
+- [Why 80% of Your Data Should Never Hit the Cloud](https://www.expanso.io/why-80-of-your-data-should-never-hit-the-cloud)
 
 ***
 
