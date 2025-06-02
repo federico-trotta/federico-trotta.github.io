@@ -104,6 +104,7 @@ Read my articles:
 Read my articles:
 - [Optimizing Python Scripts for High-Traffic Websites](https://substack.thewebscraping.club/p/scraping-high-frequency-python)
 - [The Framework That Won't Quit: Scrapy's Continued Relevance in Data Extraction](https://substack.thewebscraping.club/p/scrapy-ten-years-of-scraping-framework)
+- [Comparing Residential And Mobile Proxies for Anti-Bot Evasion](https://substack.thewebscraping.club/p/differences-residential-mobile-proxies)
 
 ***
 
@@ -203,6 +204,7 @@ Read my articles:
     - [Newsletter version](https://blog.bacalhau.org/p/k8s-vs-nomad-vs-bacalhau-choosing)
 - [Your Fast Track to Bacalhau: Local Development via Docker-in-Docker](https://blog.bacalhau.org/p/your-fast-track-to-bacalhau-local)
 - [Why 80% of Your Data Should Never Hit the Cloud](https://www.expanso.io/why-80-of-your-data-should-never-hit-the-cloud)
+- [Why Cloud-Centric Architectures Are Breaking Under Data Scale](https://blog.bacalhau.org/p/why-cloud-centric-architectures-are)
 
 ***
 
