@@ -96,6 +96,8 @@ Read my articles:
 - [Web Scraping With Botright: 2025 Guide](https://brightdata.com/blog/web-data/web-scraping-with-botright)
 - [What Is MoE? A Deep Dive Into a Popular AI Architecture](https://brightdata.com/blog/ai/mixture-of-experts)
 - [Fine-Tuning Llama 4 with Fresh Web Data for Better Results](https://brightdata.com/blog/ai/fine-tuning-llama-4-with-web-data)
+- [AI-Powered Web Scraping in Dify via a No-Code Workflow](https://brightdata.com/blog/ai/web-scraping-with-dify)
+- [Using Dify and Bright Data for Web Search](https://brightdata.com/blog/ai/dify-serp-scraping)
 
 ***
 
