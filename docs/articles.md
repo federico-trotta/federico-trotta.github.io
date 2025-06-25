@@ -98,6 +98,7 @@ Read my articles:
 - [Fine-Tuning Llama 4 with Fresh Web Data for Better Results](https://brightdata.com/blog/ai/fine-tuning-llama-4-with-web-data)
 - [AI-Powered Web Scraping in Dify via a No-Code Workflow](https://brightdata.com/blog/ai/web-scraping-with-dify)
 - [Using Dify and Bright Data for Web Search](https://brightdata.com/blog/ai/dify-serp-scraping)
+- [How To Fine-Tune GPT-4o With a Web Scraper API Using n8n](https://brightdata.com/blog/ai/fine-tune-gpt-4o-using-n8n)
 
 ***
 
