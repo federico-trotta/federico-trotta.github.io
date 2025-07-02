@@ -110,6 +110,7 @@ Read my articles:
 - [The Framework That Won't Quit: Scrapy's Continued Relevance in Data Extraction](https://substack.thewebscraping.club/p/scrapy-ten-years-of-scraping-framework)
 - [Comparing Residential And Mobile Proxies for Anti-Bot Evasion](https://substack.thewebscraping.club/p/differences-residential-mobile-proxies)
 - [Machine learning models for detecting bot detection triggers](https://substack.thewebscraping.club/p/machine-learning-for-detecting-bots)
+- [Predictive Analytics Using Scraped Data](https://thewebscrapingclub.substack.com/p/predictive-analytics-web-scraped-data)
 
 ***
 
