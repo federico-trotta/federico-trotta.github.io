@@ -99,6 +99,7 @@ Read my articles:
 - [AI-Powered Web Scraping in Dify via a No-Code Workflow](https://brightdata.com/blog/ai/web-scraping-with-dify)
 - [Using Dify and Bright Data for Web Search](https://brightdata.com/blog/ai/dify-serp-scraping)
 - [How To Fine-Tune GPT-4o With a Web Scraper API Using n8n](https://brightdata.com/blog/ai/fine-tune-gpt-4o-using-n8n)
+- [Top 10 MCP Servers to Improve Your AI Workflows](https://brightdata.com/blog/ai/best-mcp-servers)
 
 ***
 
@@ -256,6 +257,7 @@ Read my articles:
 ```
 - [Using JWTs in Python Flask REST Framework](https://blog.appsignal.com/2025/04/30/using-jwts-in-python-flask-rest-framework.html)
 - [Flask or Django: Which One Best Fits Your Python Project?](https://blog.appsignal.com/2025/06/25/flask-or-django-which-best-fits-your-python-project.html)
+- [How to Use MongoDB in Python Flask](https://blog.appsignal.com/2025/07/02/how-to-use-mongodb-in-python-flask.html)
 
 ***
 
