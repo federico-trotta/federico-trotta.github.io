@@ -100,6 +100,7 @@ Read my articles:
 - [Using Dify and Bright Data for Web Search](https://brightdata.com/blog/ai/dify-serp-scraping)
 - [How To Fine-Tune GPT-4o With a Web Scraper API Using n8n](https://brightdata.com/blog/ai/fine-tune-gpt-4o-using-n8n)
 - [Top 10 MCP Servers to Improve Your AI Workflows](https://brightdata.com/blog/ai/best-mcp-servers)
+- [Best Web Scraping Methods for JavaScript-Heavy Sites](https://brightdata.com/blog/web-data/scraping-js-heavy-websites)
 
 ***
 
