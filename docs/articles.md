@@ -113,6 +113,7 @@ Read my articles:
 - [Comparing Residential And Mobile Proxies for Anti-Bot Evasion](https://substack.thewebscraping.club/p/differences-residential-mobile-proxies)
 - [Machine learning models for detecting bot detection triggers](https://substack.thewebscraping.club/p/machine-learning-for-detecting-bots)
 - [Predictive Analytics Using Scraped Data](https://thewebscrapingclub.substack.com/p/predictive-analytics-web-scraped-data)
+- [How Reverse Proxies Route and Protect Web Traffic](https://substack.thewebscraping.club/p/reverse-proxies-and-webscraping)
 
 ***
 
@@ -259,6 +260,7 @@ Read my articles:
 - [Using JWTs in Python Flask REST Framework](https://blog.appsignal.com/2025/04/30/using-jwts-in-python-flask-rest-framework.html)
 - [Flask or Django: Which One Best Fits Your Python Project?](https://blog.appsignal.com/2025/06/25/flask-or-django-which-best-fits-your-python-project.html)
 - [How to Use MongoDB in Python Flask](https://blog.appsignal.com/2025/07/02/how-to-use-mongodb-in-python-flask.html)
+- [How to Avoid N+1 Queries in Django Python](https://blog.appsignal.com/2025/07/09/how-to-avoid-nplus1-queries-in-django-python.html)
 
 ***
 
