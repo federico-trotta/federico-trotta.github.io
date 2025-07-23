@@ -261,6 +261,7 @@ Read my articles:
 - [Flask or Django: Which One Best Fits Your Python Project?](https://blog.appsignal.com/2025/06/25/flask-or-django-which-best-fits-your-python-project.html)
 - [How to Use MongoDB in Python Flask](https://blog.appsignal.com/2025/07/02/how-to-use-mongodb-in-python-flask.html)
 - [How to Avoid N+1 Queries in Django Python](https://blog.appsignal.com/2025/07/09/how-to-avoid-nplus1-queries-in-django-python.html)
+- [How the Application and Request Contexts Work in Python Flask](https://blog.appsignal.com/2025/07/23/how-the-application-and-request-contexts-work-in-flask.html)
 
 ***
 
