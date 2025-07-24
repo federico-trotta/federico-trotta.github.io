@@ -101,6 +101,7 @@ Read my articles:
 - [How To Fine-Tune GPT-4o With a Web Scraper API Using n8n](https://brightdata.com/blog/ai/fine-tune-gpt-4o-using-n8n)
 - [Top 10 MCP Servers to Improve Your AI Workflows](https://brightdata.com/blog/ai/best-mcp-servers)
 - [Best Web Scraping Methods for JavaScript-Heavy Sites](https://brightdata.com/blog/web-data/scraping-js-heavy-websites)
+- [Web Scraping Workflow with Pipedream and Bright Data](https://brightdata.com/blog/ai/pipedream-with-bright-data)
 
 ***
 
