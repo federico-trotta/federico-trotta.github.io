@@ -115,6 +115,7 @@ Read my articles:
 - [Machine learning models for detecting bot detection triggers](https://substack.thewebscraping.club/p/machine-learning-for-detecting-bots)
 - [Predictive Analytics Using Scraped Data](https://thewebscrapingclub.substack.com/p/predictive-analytics-web-scraped-data)
 - [How Reverse Proxies Route and Protect Web Traffic](https://substack.thewebscraping.club/p/reverse-proxies-and-webscraping)
+- [Beyond the DOM: A Practical Guide to Web Data Extraction with LLMs and GPT Vision](https://substack.thewebscraping.club/p/scraping-with-llms-gpt-vision)
 
 ***
 
