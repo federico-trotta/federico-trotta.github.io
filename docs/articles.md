@@ -102,6 +102,7 @@ Read my articles:
 - [Top 10 MCP Servers to Improve Your AI Workflows](https://brightdata.com/blog/ai/best-mcp-servers)
 - [Best Web Scraping Methods for JavaScript-Heavy Sites](https://brightdata.com/blog/web-data/scraping-js-heavy-websites)
 - [Web Scraping Workflow with Pipedream and Bright Data](https://brightdata.com/blog/ai/pipedream-with-bright-data)
+- [Top 7 Coresignal Alternatives for Business Intelligence Data](https://brightdata.com/blog/web-data/coresignal-alternatives)
 
 ***
 
